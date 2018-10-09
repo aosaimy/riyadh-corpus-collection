@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="b87a7e818a33b934bf970cabfafcc1c5"/>
+        <meta name="dtb:depth" content="4"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>رياض الصالحين ت الفحل</text>
+    </docTitle>
+    <docAuthor>
+        <text>النووي</text>
+    </docAuthor>
+    <navMap>
+    	<navPoint id="info" playOrder="1"><navLabel><text>بطاقة الكتاب</text></navLabel><content src="xhtml/info.xhtml"/></navPoint>
+
+        <navPoint id="C1" playOrder="2"><navLabel><text>مقدمة المحقق</text></navLabel><content src="xhtml/P2.xhtml#C1"/></navPoint>
+<navPoint id="C2" playOrder="3"><navLabel><text>مقدمة المؤلف الإمام النووي</text></navLabel><content src="xhtml/P7.xhtml#C2"/></navPoint>
+<navPoint id="C3" playOrder="4"><navLabel><text>بداية الكتاب</text></navLabel><content src="xhtml/P10.xhtml#C3"/><navPoint id="C4" playOrder="5"><navLabel><text>1 - باب الإخلاص وإحضار النية في جميع الأعمال والأقوال</text></navLabel><content src="xhtml/P10.xhtml#C4"/></navPoint>
+<navPoint id="C5" playOrder="6"><navLabel><text>2 - باب التوبة</text></navLabel><content src="xhtml/P24.xhtml#C5"/></navPoint>
+<navPoint id="C6" playOrder="7"><navLabel><text>3 - باب الصبر</text></navLabel><content src="xhtml/P42.xhtml#C6"/></navPoint>
+<navPoint id="C7" playOrder="8"><navLabel><text>4 - باب الصدق</text></navLabel><content src="xhtml/P73.xhtml#C7"/></navPoint>
+<navPoint id="C8" playOrder="9"><navLabel><text>5 - باب المراقبة</text></navLabel><content src="xhtml/P80.xhtml#C8"/></navPoint>
+<navPoint id="C9" playOrder="10"><navLabel><text>6 - باب في التقوى</text></navLabel><content src="xhtml/P91.xhtml#C9"/></navPoint>
+<navPoint id="C10" playOrder="11"><navLabel><text>7 - باب في اليقين والتوكل</text></navLabel><content src="xhtml/P97.xhtml#C10"/></navPoint>
+<navPoint id="C11" playOrder="12"><navLabel><text>8 - باب في الاستقامة</text></navLabel><content src="xhtml/P109.xhtml#C11"/></navPoint>
+<navPoint id="C12" playOrder="13"><navLabel><text>9 - باب في التفكر في عظيم مخلوقات الله تعالى وفناء الدنيا وأهوال الآخرة وسائر أمورهما وتقصير النفس وتهذيبها وحملها على الاستقامة</text></navLabel><content src="xhtml/P112.xhtml#C12"/></navPoint>
+<navPoint id="C13" playOrder="14"><navLabel><text>10 - باب في المبادرة إلى الخيرات وحث من توجه لخير على الإقبال عليه بالجد من غير تردد</text></navLabel><content src="xhtml/P113.xhtml#C13"/></navPoint>
+<navPoint id="C14" playOrder="15"><navLabel><text>11 - باب في المجاهدة</text></navLabel><content src="xhtml/P122.xhtml#C14"/></navPoint>
+<navPoint id="C15" playOrder="16"><navLabel><text>12 - باب الحث على الازدياد من الخير في أواخر العمر</text></navLabel><content src="xhtml/P140.xhtml#C15"/></navPoint>
+<navPoint id="C16" playOrder="17"><navLabel><text>13 - باب في بيان كثرة طرق الخير</text></navLabel><content src="xhtml/P146.xhtml#C16"/></navPoint>
+<navPoint id="C17" playOrder="18"><navLabel><text>14 - باب في الاقتصاد في العبادة</text></navLabel><content src="xhtml/P172.xhtml#C17"/></navPoint>
+<navPoint id="C18" playOrder="19"><navLabel><text>15 - باب في المحافظة على الأعمال</text></navLabel><content src="xhtml/P186.xhtml#C18"/></navPoint>
+<navPoint id="C19" playOrder="20"><navLabel><text>16 - باب في الأمر بالمحافظة على السنة وآدابها</text></navLabel><content src="xhtml/P190.xhtml#C19"/></navPoint>
+<navPoint id="C20" playOrder="21"><navLabel><text>17 - باب في وجوب الانقياد لحكم الله وما يقوله من دعي إلى ذلك وأمر بمعروف أو نهي عن منكر</text></navLabel><content src="xhtml/P203.xhtml#C20"/></navPoint>
+<navPoint id="C21" playOrder="22"><navLabel><text>18 - باب في النهي عن البدع ومحدثات الأمور</text></navLabel><content src="xhtml/P205.xhtml#C21"/></navPoint>
+<navPoint id="C22" playOrder="23"><navLabel><text>19 - باب فيمن سن سنة حسنة أو سيئة</text></navLabel><content src="xhtml/P208.xhtml#C22"/></navPoint>
+<navPoint id="C23" playOrder="24"><navLabel><text>20 - باب في الدلالة على خير والدعاء إلى هدى أو ضلالة</text></navLabel><content src="xhtml/P211.xhtml#C23"/></navPoint>
+<navPoint id="C24" playOrder="25"><navLabel><text>21 - باب في التعاون على البر والتقوى</text></navLabel><content src="xhtml/P216.xhtml#C24"/></navPoint>
+<navPoint id="C25" playOrder="26"><navLabel><text>22 - باب في النصيحة</text></navLabel><content src="xhtml/P221.xhtml#C25"/></navPoint>
+<navPoint id="C26" playOrder="27"><navLabel><text>23 - باب في الأمر بالمعروف والنهي عن المنكر</text></navLabel><content src="xhtml/P225.xhtml#C26"/></navPoint>
+<navPoint id="C27" playOrder="28"><navLabel><text>24 - باب تغليظ عقوبة من أمر بمعروف أو نهى عن منكر وخالف قوله فعله</text></navLabel><content src="xhtml/P240.xhtml#C27"/></navPoint>
+<navPoint id="C28" playOrder="29"><navLabel><text>25 - باب الأمر بأداء الأمانة</text></navLabel><content src="xhtml/P242.xhtml#C28"/></navPoint>
+<navPoint id="C29" playOrder="30"><navLabel><text>26 - باب تحريم الظلم والأمر برد المظالم</text></navLabel><content src="xhtml/P248.xhtml#C29"/></navPoint>
+<navPoint id="C30" playOrder="31"><navLabel><text>27 - باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم</text></navLabel><content src="xhtml/P268.xhtml#C30"/></navPoint>
+<navPoint id="C31" playOrder="32"><navLabel><text>28 - باب ستر عورات المسلمين والنهي عن إشاعتها لغير ضرورة</text></navLabel><content src="xhtml/P287.xhtml#C31"/></navPoint>
+<navPoint id="C32" playOrder="33"><navLabel><text>29 - باب قضاء حوائج المسلمين</text></navLabel><content src="xhtml/P292.xhtml#C32"/></navPoint>
+<navPoint id="C33" playOrder="34"><navLabel><text>30 - باب الشفاعة</text></navLabel><content src="xhtml/P295.xhtml#C33"/></navPoint>
+<navPoint id="C34" playOrder="35"><navLabel><text>31 - باب الإصلاح بين الناس</text></navLabel><content src="xhtml/P298.xhtml#C34"/></navPoint>
+<navPoint id="C35" playOrder="36"><navLabel><text>32 - باب فضل ضعفة المسلمين والفقراء والخاملين</text></navLabel><content src="xhtml/P303.xhtml#C35"/></navPoint>
+<navPoint id="C36" playOrder="37"><navLabel><text>33 - باب ملاطفة اليتيم والبنات وسائر الضعفة والمساكين والمنكسرين والإحسان إليهم والشفقة عليهم والتواضع معهم وخفض الجناح لهم</text></navLabel><content src="xhtml/P312.xhtml#C36"/></navPoint>
+<navPoint id="C37" playOrder="38"><navLabel><text>34 - باب الوصية بالنساء</text></navLabel><content src="xhtml/P326.xhtml#C37"/></navPoint>
+<navPoint id="C38" playOrder="39"><navLabel><text>35 - باب حق الزوج على المرأة</text></navLabel><content src="xhtml/P335.xhtml#C38"/></navPoint>
+<navPoint id="C39" playOrder="40"><navLabel><text>36 - باب النفقة على العيال</text></navLabel><content src="xhtml/P344.xhtml#C39"/></navPoint>
+<navPoint id="C40" playOrder="41"><navLabel><text>37 - باب الإنفاق مما يحب ومن الجيد</text></navLabel><content src="xhtml/P353.xhtml#C40"/></navPoint>
+<navPoint id="C41" playOrder="42"><navLabel><text>38 - باب وجوب أمره أهله وأولاده المميزين وسائر من في رعيته بطاعة الله تعالى ونهيهم عن المخالفة وتأديبهم ومنعهم من ارتكاب منهي عنه</text></navLabel><content src="xhtml/P355.xhtml#C41"/></navPoint>
+<navPoint id="C42" playOrder="43"><navLabel><text>39 - باب حق الجار والوصية به</text></navLabel><content src="xhtml/P361.xhtml#C42"/></navPoint>
+<navPoint id="C43" playOrder="44"><navLabel><text>40 - باب بر الوالدين وصلة الأرحام</text></navLabel><content src="xhtml/P371.xhtml#C43"/></navPoint>
+<navPoint id="C44" playOrder="45"><navLabel><text>41 - باب تحريم العقوق وقطيعة الرحم</text></navLabel><content src="xhtml/P396.xhtml#C44"/></navPoint>
+<navPoint id="C45" playOrder="46"><navLabel><text>42 - باب فضل بر أصدقاء الأب والأم والأقارب والزوجة وسائر من يندب إكرامه</text></navLabel><content src="xhtml/P402.xhtml#C45"/></navPoint>
+<navPoint id="C46" playOrder="47"><navLabel><text>43 - باب إكرام أهل بيت رسول الله - صلى الله عليه وسلم - وبيان فضلهم</text></navLabel><content src="xhtml/P407.xhtml#C46"/></navPoint>
+<navPoint id="C47" playOrder="48"><navLabel><text>44 - باب توقير العلماء والكبار وأهل الفضل وتقديمهم على غيرهم ورفع مجالسهم وإظهار مرتبتهم</text></navLabel><content src="xhtml/P410.xhtml#C47"/></navPoint>
+<navPoint id="C48" playOrder="49"><navLabel><text>45 - باب زيارة أهل الخير ومجالستهم وصحبتهم ومحبتهم وطلب زيارتهم والدعاء منهم وزيارة المواضع الفاضلة</text></navLabel><content src="xhtml/P423.xhtml#C48"/></navPoint>
+<navPoint id="C49" playOrder="50"><navLabel><text>46 - باب فضل الحب في الله والحث عليه وإعلام الرجل من يحبه، أنه يحبه، وماذا يقول له إذا أعلمه</text></navLabel><content src="xhtml/P439.xhtml#C49"/></navPoint>
+<navPoint id="C50" playOrder="51"><navLabel><text>47 - باب علامات حب الله تعالى للعبد والحث على التخلق بها والسعي في تحصيلها</text></navLabel><content src="xhtml/P451.xhtml#C50"/></navPoint>
+<navPoint id="C51" playOrder="52"><navLabel><text>48 - باب التحذير من إيذاء الصالحين والضعفة والمساكين</text></navLabel><content src="xhtml/P455.xhtml#C51"/></navPoint>
+<navPoint id="C52" playOrder="53"><navLabel><text>49 - باب إجراء أحكام الناس على الظاهر وسرائرهم إلى الله تعالى</text></navLabel><content src="xhtml/P458.xhtml#C52"/></navPoint>
+<navPoint id="C53" playOrder="54"><navLabel><text>50 - باب الخوف</text></navLabel><content src="xhtml/P465.xhtml#C53"/></navPoint>
+<navPoint id="C54" playOrder="55"><navLabel><text>51 - باب الرجاء</text></navLabel><content src="xhtml/P482.xhtml#C54"/></navPoint>
+<navPoint id="C55" playOrder="56"><navLabel><text>52 - باب فضل الرجاء</text></navLabel><content src="xhtml/P513.xhtml#C55"/></navPoint>
+<navPoint id="C56" playOrder="57"><navLabel><text>53 - باب الجمع بين الخوف والرجاء</text></navLabel><content src="xhtml/P517.xhtml#C56"/></navPoint>
+<navPoint id="C57" playOrder="58"><navLabel><text>54 - باب فضل البكاء من خشية الله تعالى وشوقا إليه</text></navLabel><content src="xhtml/P521.xhtml#C57"/></navPoint>
+<navPoint id="C58" playOrder="59"><navLabel><text>55 - باب فضل الزهد في الدنيا والحث على التقلل منها وفضل الفقر</text></navLabel><content src="xhtml/P532.xhtml#C58"/></navPoint>
+<navPoint id="C59" playOrder="60"><navLabel><text>56 - باب فضل الجوع وخشونة العيش والاقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات</text></navLabel><content src="xhtml/P567.xhtml#C59"/></navPoint>
+<navPoint id="C60" playOrder="61"><navLabel><text>57 - باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة</text></navLabel><content src="xhtml/P601.xhtml#C60"/></navPoint>
+<navPoint id="C61" playOrder="62"><navLabel><text>58 - باب جواز الأخذ من غير مسألة ولا تطلع إليه</text></navLabel><content src="xhtml/P618.xhtml#C61"/></navPoint>
+<navPoint id="C62" playOrder="63"><navLabel><text>59 - باب الحث على الأكل من عمل يده والتعفف به عن السؤال والتعرض للإعطاء</text></navLabel><content src="xhtml/P619.xhtml#C62"/></navPoint>
+<navPoint id="C63" playOrder="64"><navLabel><text>60 - باب الكرم والجود والإنفاق في وجوه الخير ثقة بالله تعالى</text></navLabel><content src="xhtml/P625.xhtml#C63"/></navPoint>
+<navPoint id="C64" playOrder="65"><navLabel><text>61 - باب النهي عن البخل والشح</text></navLabel><content src="xhtml/P645.xhtml#C64"/></navPoint>
+<navPoint id="C65" playOrder="66"><navLabel><text>62 - باب الإيثار والمواساة</text></navLabel><content src="xhtml/P647.xhtml#C65"/></navPoint>
+<navPoint id="C66" playOrder="67"><navLabel><text>63 - باب التنافس في أمور الآخرة والاستكثار مما يتبرك به</text></navLabel><content src="xhtml/P653.xhtml#C66"/></navPoint>
+<navPoint id="C67" playOrder="68"><navLabel><text>64 - باب فضل الغني الشاكر وهو من أخذ المال من وجهه وصرفه في وجوهه المأمور بها</text></navLabel><content src="xhtml/P656.xhtml#C67"/></navPoint>
+<navPoint id="C68" playOrder="69"><navLabel><text>65 - باب ذكر الموت وقصر الأمل</text></navLabel><content src="xhtml/P660.xhtml#C68"/></navPoint>
+<navPoint id="C69" playOrder="70"><navLabel><text>66 - باب استحباب زيارة القبور للرجال وما يقوله الزائر</text></navLabel><content src="xhtml/P668.xhtml#C69"/></navPoint>
+<navPoint id="C70" playOrder="71"><navLabel><text>67 - باب كراهة تمني الموت بسبب ضر نزل به ولا بأس به لخوف الفتنة في الدين</text></navLabel><content src="xhtml/P672.xhtml#C70"/></navPoint>
+<navPoint id="C71" playOrder="72"><navLabel><text>68 - باب الورع وترك الشبهات</text></navLabel><content src="xhtml/P675.xhtml#C71"/></navPoint>
+<navPoint id="C72" playOrder="73"><navLabel><text>69 - باب استحباب العزلة عند فساد الناس والزمان أو الخوف من فتنة في الدين ووقوع في حرام وشبهات ونحوها</text></navLabel><content src="xhtml/P685.xhtml#C72"/></navPoint>
+<navPoint id="C73" playOrder="74"><navLabel><text>70 - باب فضل الاختلاط بالناس وحضور جمعهم وجماعاتهم، ومشاهد الخير، ومجالس الذكر معهم، وعيادة مريضهم، وحضور جنائزهم، ومواساة محتاجهم، وإرشاد جاهلهم، وغير ذلك من مصالحهم لمن قدر على الأمر بالمعروف والنهي عن المنكر، وقمع نفسه عن الإيذاء وصبر على ال</text></navLabel><content src="xhtml/P691.xhtml#C73"/></navPoint>
+<navPoint id="C74" playOrder="75"><navLabel><text>71 - باب التواضع وخفض الجناح للمؤمنين</text></navLabel><content src="xhtml/P692.xhtml#C74"/></navPoint>
+<navPoint id="C75" playOrder="76"><navLabel><text>72 - باب تحريم الكبر والإعجاب</text></navLabel><content src="xhtml/P703.xhtml#C75"/></navPoint>
+<navPoint id="C76" playOrder="77"><navLabel><text>73 - باب حسن الخلق</text></navLabel><content src="xhtml/P713.xhtml#C76"/></navPoint>
+<navPoint id="C77" playOrder="78"><navLabel><text>74 - باب الحلم والأناة والرفق</text></navLabel><content src="xhtml/P725.xhtml#C77"/></navPoint>
+<navPoint id="C78" playOrder="79"><navLabel><text>75 - باب العفو والإعراض عن الجاهلين</text></navLabel><content src="xhtml/P737.xhtml#C78"/></navPoint>
+<navPoint id="C79" playOrder="80"><navLabel><text>76 - باب احتمال الأذى</text></navLabel><content src="xhtml/P743.xhtml#C79"/></navPoint>
+<navPoint id="C80" playOrder="81"><navLabel><text>77 - باب الغضب إذا انتهكت حرمات الشرع والانتصار لدين الله تعالى</text></navLabel><content src="xhtml/P745.xhtml#C80"/></navPoint>
+<navPoint id="C81" playOrder="82"><navLabel><text>78 - باب أمر ولاة الأمور بالرفق برعاياهم ونصيحتهم والشفقة عليهم والنهي عن غشهم والتشديد عليهم وإهمال مصالحهم والغفلة عنهم وعن حوائجهم</text></navLabel><content src="xhtml/P750.xhtml#C81"/></navPoint>
+<navPoint id="C82" playOrder="83"><navLabel><text>79 - باب الوالي العادل</text></navLabel><content src="xhtml/P757.xhtml#C82"/></navPoint>
+<navPoint id="C83" playOrder="84"><navLabel><text>80 - باب وجوب طاعة ولاة الأمر في غير معصية وتحريم طاعتهم في المعصية</text></navLabel><content src="xhtml/P762.xhtml#C83"/></navPoint>
+<navPoint id="C84" playOrder="85"><navLabel><text>81 - باب النهي عن سؤال الإمارة واختيار ترك الولايات إذا لم يتعين عليه أو تدع حاجة إليه</text></navLabel><content src="xhtml/P774.xhtml#C84"/></navPoint>
+<navPoint id="C85" playOrder="86"><navLabel><text>82 - باب حث السلطان والقاضي وغيرهما من ولاة الأمور على اتخاذ وزير صالح وتحذيرهم من قرناء السوء والقبول منهم</text></navLabel><content src="xhtml/P779.xhtml#C85"/></navPoint>
+<navPoint id="C86" playOrder="87"><navLabel><text>83 - باب النهي عن تولية الإمارة والقضاء وغيرهما من الولايات لمن سألها أو حرص عليها فعرض بها</text></navLabel><content src="xhtml/P782.xhtml#C86"/></navPoint>
+</navPoint>
+<navPoint id="C87" playOrder="88"><navLabel><text>1 - كتاب الأدب</text></navLabel><content src="xhtml/P783.xhtml#C87"/><navPoint id="C88" playOrder="89"><navLabel><text>84 - باب الحياء وفضله والحث على التخلق به</text></navLabel><content src="xhtml/P783.xhtml#C88"/></navPoint>
+<navPoint id="C89" playOrder="90"><navLabel><text>85 - باب حفظ السر</text></navLabel><content src="xhtml/P787.xhtml#C89"/></navPoint>
+<navPoint id="C90" playOrder="91"><navLabel><text>86 - باب الوفاء بالعهد وإنجاز الوعد</text></navLabel><content src="xhtml/P791.xhtml#C90"/></navPoint>
+<navPoint id="C91" playOrder="92"><navLabel><text>87 - باب المحافظة على ما اعتاده من الخير</text></navLabel><content src="xhtml/P795.xhtml#C91"/></navPoint>
+<navPoint id="C92" playOrder="93"><navLabel><text>88 - باب استحباب طيب الكلام وطلاقة الوجه عند اللقاء</text></navLabel><content src="xhtml/P797.xhtml#C92"/></navPoint>
+<navPoint id="C93" playOrder="94"><navLabel><text>89 - باب استحباب بيان الكلام وإيضاحه للمخاطب وتكريره ليفهم إذا لم يفهم إلا بذلك</text></navLabel><content src="xhtml/P801.xhtml#C93"/></navPoint>
+<navPoint id="C94" playOrder="95"><navLabel><text>90 - باب إصغاء الجليس لحديث جليسه الذي ليس بحرام واستنصات العالم والواعظ حاضري مجلسه</text></navLabel><content src="xhtml/P803.xhtml#C94"/></navPoint>
+<navPoint id="C95" playOrder="96"><navLabel><text>91 - باب الوعظ والاقتصاد فيه</text></navLabel><content src="xhtml/P804.xhtml#C95"/></navPoint>
+<navPoint id="C96" playOrder="97"><navLabel><text>92 - باب الوقار والسكينة</text></navLabel><content src="xhtml/P809.xhtml#C96"/></navPoint>
+<navPoint id="C97" playOrder="98"><navLabel><text>93 - باب الندب إلى إتيان الصلاة والعلم ونحوهما من العبادات بالسكينة والوقار</text></navLabel><content src="xhtml/P811.xhtml#C97"/></navPoint>
+<navPoint id="C98" playOrder="99"><navLabel><text>94 - باب إكرام الضيف</text></navLabel><content src="xhtml/P814.xhtml#C98"/></navPoint>
+<navPoint id="C99" playOrder="100"><navLabel><text>95 - باب استحباب التبشير والتهنئة بالخير</text></navLabel><content src="xhtml/P817.xhtml#C99"/></navPoint>
+<navPoint id="C100" playOrder="101"><navLabel><text>96 - باب وداع الصاحب ووصيته عند فراقه للسفر وغيره والدعاء له وطلب الدعاء منه</text></navLabel><content src="xhtml/P822.xhtml#C100"/></navPoint>
+<navPoint id="C101" playOrder="102"><navLabel><text>97 - باب الاستخارة والمشاورة</text></navLabel><content src="xhtml/P829.xhtml#C101"/></navPoint>
+<navPoint id="C102" playOrder="103"><navLabel><text>98 - باب استحباب الذهاب إلى العيد وعيادة المريض والحج والغزو والجنازة ونحوها من طريق، والرجوع من طريق آخر لتكثير مواضع العبادة</text></navLabel><content src="xhtml/P831.xhtml#C102"/></navPoint>
+<navPoint id="C103" playOrder="104"><navLabel><text>99 - باب استحباب تقديم اليمين في كل ما هو من باب التكريم</text></navLabel><content src="xhtml/P833.xhtml#C103"/></navPoint>
+</navPoint>
+<navPoint id="C104" playOrder="105"><navLabel><text>2 - كتاب أدب الطعام</text></navLabel><content src="xhtml/P841.xhtml#C104"/><navPoint id="C105" playOrder="106"><navLabel><text>100 - باب التسمية في أوله والحمد في آخره</text></navLabel><content src="xhtml/P841.xhtml#C105"/></navPoint>
+<navPoint id="C106" playOrder="107"><navLabel><text>101 - باب لا يعيب الطعام واستحباب مدحه</text></navLabel><content src="xhtml/P849.xhtml#C106"/></navPoint>
+<navPoint id="C107" playOrder="108"><navLabel><text>102 - باب ما يقوله من حضر الطعام وهو صائم إذا لم يفطر</text></navLabel><content src="xhtml/P851.xhtml#C107"/></navPoint>
+<navPoint id="C108" playOrder="109"><navLabel><text>103 - باب ما يقوله من دعي إلى طعام فتبعه غيره</text></navLabel><content src="xhtml/P852.xhtml#C108"/></navPoint>
+<navPoint id="C109" playOrder="110"><navLabel><text>104 - باب الأكل مما يليه ووعظه وتأديبه من يسيء أكله</text></navLabel><content src="xhtml/P853.xhtml#C109"/></navPoint>
+<navPoint id="C110" playOrder="111"><navLabel><text>105 - باب النهي عن القران بين تمرتين ونحوهما إذا أكل جماعة إلا بإذن رفقته</text></navLabel><content src="xhtml/P855.xhtml#C110"/></navPoint>
+<navPoint id="C111" playOrder="112"><navLabel><text>106 - باب ما يقوله ويفعله من يأكل ولا يشبع</text></navLabel><content src="xhtml/P856.xhtml#C111"/></navPoint>
+<navPoint id="C112" playOrder="113"><navLabel><text>107 - باب الأمر بالأكل من جانب القصعة والنهي عن الأكل من وسطها</text></navLabel><content src="xhtml/P857.xhtml#C112"/></navPoint>
+<navPoint id="C113" playOrder="114"><navLabel><text>108 - باب كراهية الأكل متكئا</text></navLabel><content src="xhtml/P859.xhtml#C113"/></navPoint>
+<navPoint id="C114" playOrder="115"><navLabel><text>109 - باب استحباب الأكل بثلاث أصابع، واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها، ومسحها بعد اللعق بالساعد والقدم وغيرها</text></navLabel><content src="xhtml/P861.xhtml#C114"/></navPoint>
+<navPoint id="C115" playOrder="116"><navLabel><text>110 - باب تكثير الأيدي على الطعام</text></navLabel><content src="xhtml/P868.xhtml#C115"/></navPoint>
+<navPoint id="C116" playOrder="117"><navLabel><text>111 - باب أدب الشرب واستحباب التنفس ثلاثا خارج الإناء وكراهة التنفس في الإناء واستحباب إدارة الإناء على الأيمن فالأيمن بعد المبتدئ</text></navLabel><content src="xhtml/P870.xhtml#C116"/></navPoint>
+<navPoint id="C117" playOrder="118"><navLabel><text>112 - باب كراهة الشرب من فم القربة ونحوها وبيان أنه كراهة تنزيه لا تحريم</text></navLabel><content src="xhtml/P875.xhtml#C117"/></navPoint>
+<navPoint id="C118" playOrder="119"><navLabel><text>113 - باب كراهة النفخ في الشراب</text></navLabel><content src="xhtml/P878.xhtml#C118"/></navPoint>
+<navPoint id="C119" playOrder="120"><navLabel><text>114 - باب بيان جواز الشرب قائما وبيان أن الأكمل والأفضل الشرب قاعدا</text></navLabel><content src="xhtml/P880.xhtml#C119"/></navPoint>
+<navPoint id="C120" playOrder="121"><navLabel><text>115 - باب استحباب كون ساقي القوم آخرهم شربا</text></navLabel><content src="xhtml/P886.xhtml#C120"/></navPoint>
+<navPoint id="C121" playOrder="122"><navLabel><text>116 - باب جواز الشرب من جميع الأواني الطاهرة غير الذهب والفضة وجواز الكرع - وهو الشرب بالفم من النهر وغيره بغير إناء ولا يد - وتحريم استعمال إناء الذهب والفضة في الشرب والأكل والطهارة وسائر وجوه الاستعمال</text></navLabel><content src="xhtml/P887.xhtml#C121"/></navPoint>
+</navPoint>
+<navPoint id="C122" playOrder="123"><navLabel><text>3 - كتاب اللباس</text></navLabel><content src="xhtml/P892.xhtml#C122"/><navPoint id="C123" playOrder="124"><navLabel><text>117 - باب استحباب الثوب الأبيض، وجواز الأحمر والأخضر والأصفر والأسود، وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير</text></navLabel><content src="xhtml/P892.xhtml#C123"/></navPoint>
+<navPoint id="C124" playOrder="125"><navLabel><text>118 - باب استحباب القميص</text></navLabel><content src="xhtml/P903.xhtml#C124"/></navPoint>
+<navPoint id="C125" playOrder="126"><navLabel><text>119 - باب صفة طول القميص والكم والإزار وطرف العمامة وتحريم إسبال شيء من ذلك على سبيل الخيلاء وكراهته من غير خيلاء</text></navLabel><content src="xhtml/P904.xhtml#C125"/></navPoint>
+<navPoint id="C126" playOrder="127"><navLabel><text>120 - باب استحباب ترك الترفع في اللباس تواضعا</text></navLabel><content src="xhtml/P916.xhtml#C126"/></navPoint>
+<navPoint id="C127" playOrder="128"><navLabel><text>121 - باب استحباب التوسط في اللباس ولا يقتصر على ما يزري به لغير حاجة ولا مقصود شرعي</text></navLabel><content src="xhtml/P917.xhtml#C127"/></navPoint>
+<navPoint id="C128" playOrder="129"><navLabel><text>122 - باب تحريم لباس الحرير على الرجال، وتحريم جلوسهم عليه واستنادهم إليه وجواز لبسه للنساء</text></navLabel><content src="xhtml/P918.xhtml#C128"/></navPoint>
+<navPoint id="C129" playOrder="130"><navLabel><text>123 - باب جواز لبس الحرير لمن به حكة</text></navLabel><content src="xhtml/P924.xhtml#C129"/></navPoint>
+<navPoint id="C130" playOrder="131"><navLabel><text>124 - باب النهي عن افتراش جلود النمور والركوب عليها</text></navLabel><content src="xhtml/P925.xhtml#C130"/></navPoint>
+<navPoint id="C131" playOrder="132"><navLabel><text>125 - باب ما يقول إذا لبس ثوبا جديدا أو نعلا أو نحوه</text></navLabel><content src="xhtml/P927.xhtml#C131"/><navPoint id="C132" playOrder="133"><navLabel><text>اللهم لك الحمد أنت كسوتنيه، أسألك خيره وخير ما صنع له، وأعوذ بك من شره وشر ما صنع له</text></navLabel><content src="xhtml/P927.xhtml#C132"/></navPoint>
+</navPoint>
+<navPoint id="C133" playOrder="134"><navLabel><text>126 - باب استحباب الابتداء باليمين في اللباس</text></navLabel><content src="xhtml/P928.xhtml#C133"/></navPoint>
+</navPoint>
+<navPoint id="C134" playOrder="135"><navLabel><text>4 - كتاب آداب النوم والاضطجاع والقعود والمجلس والجليس والرؤيا</text></navLabel><content src="xhtml/P929.xhtml#C134"/><navPoint id="C135" playOrder="136"><navLabel><text>127 - باب ما يقوله عند النوم</text></navLabel><content src="xhtml/P929.xhtml#C135"/><navPoint id="C136" playOrder="137"><navLabel><text>للهم أسلمت نفسي إليك، ووجهت وجهي إليك، وفوضت أمري إليك، وألجأت ظهري إليك، رغبة ورهبة إليك، لا ملجأ ولا منجا منك إلا إليك، آمنت بكتابك الذي أنزلت، ونبيك الذ</text></navLabel><content src="xhtml/P929.xhtml#C136"/></navPoint>
+<navPoint id="C137" playOrder="138"><navLabel><text>اللهم باسمك أموت وأحيا</text></navLabel><content src="xhtml/P932.xhtml#C137"/></navPoint>
+<navPoint id="C138" playOrder="139"><navLabel><text>الحمد لله الذي أحيانا بعدما أماتنا وإليه النشور</text></navLabel><content src="xhtml/P932.xhtml#C138"/></navPoint>
+</navPoint>
+<navPoint id="C139" playOrder="140"><navLabel><text>128 - باب جواز الاستلقاء على القفا ووضع إحدى الرجلين على الأخرى إذا لم يخف انكشاف العورة وجواز القعود متربعا ومحتبيا</text></navLabel><content src="xhtml/P935.xhtml#C139"/></navPoint>
+<navPoint id="C140" playOrder="141"><navLabel><text>129 - باب في آداب المجلس والجليس</text></navLabel><content src="xhtml/P940.xhtml#C140"/><navPoint id="C141" playOrder="142"><navLabel><text>سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك</text></navLabel><content src="xhtml/P947.xhtml#C141"/></navPoint>
+<navPoint id="C142" playOrder="143"><navLabel><text>سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت أستغفرك وأتوب إليك</text></navLabel><content src="xhtml/P948.xhtml#C142"/></navPoint>
+<navPoint id="C143" playOrder="144"><navLabel><text>اللهم اقسم لنا من خشيتك ما تحول به بيننا وبين معاصيك، ومن طاعتك ما تبلغنا به جنتك، ومن اليقين ما تهون علينا مصائب الدنيا، اللهم متعنا بأسماعنا، وأبصارن</text></navLabel><content src="xhtml/P949.xhtml#C143"/></navPoint>
+</navPoint>
+<navPoint id="C144" playOrder="145"><navLabel><text>130 - باب الرؤيا وما يتعلق بها</text></navLabel><content src="xhtml/P953.xhtml#C144"/></navPoint>
+</navPoint>
+<navPoint id="C145" playOrder="146"><navLabel><text>5 - كتاب السلام</text></navLabel><content src="xhtml/P960.xhtml#C145"/><navPoint id="C146" playOrder="147"><navLabel><text>131 - باب فضل السلام والأمر بإفشائه</text></navLabel><content src="xhtml/P960.xhtml#C146"/></navPoint>
+<navPoint id="C147" playOrder="148"><navLabel><text>132 - باب كيفية السلام</text></navLabel><content src="xhtml/P967.xhtml#C147"/></navPoint>
+<navPoint id="C148" playOrder="149"><navLabel><text>133 - باب آداب السلام</text></navLabel><content src="xhtml/P975.xhtml#C148"/></navPoint>
+<navPoint id="C149" playOrder="150"><navLabel><text>134 - باب استحباب إعادة السلام على من تكرر لقاؤه على قرب بأن دخل ثم خرج ثم دخل في الحال، أو حال بينهما شجرة ونحوهما</text></navLabel><content src="xhtml/P977.xhtml#C149"/></navPoint>
+<navPoint id="C150" playOrder="151"><navLabel><text>135 - باب استحباب السلام إذا دخل بيته</text></navLabel><content src="xhtml/P979.xhtml#C150"/></navPoint>
+<navPoint id="C151" playOrder="152"><navLabel><text>136 - باب السلام على الصبيان</text></navLabel><content src="xhtml/P981.xhtml#C151"/></navPoint>
+<navPoint id="C152" playOrder="153"><navLabel><text>137 - باب سلام الرجل على زوجته والمرأة من محارمه، وعلى أجنبية وأجنبيات لا يخاف الفتنة بهن وسلامهن بهذا الشرط</text></navLabel><content src="xhtml/P982.xhtml#C152"/></navPoint>
+<navPoint id="C153" playOrder="154"><navLabel><text>138 - باب تحريم ابتدائنا الكافر بالسلام وكيفية الرد عليهم واستحباب السلام على أهل مجلس فيهم مسلمون وكفار</text></navLabel><content src="xhtml/P985.xhtml#C153"/></navPoint>
+<navPoint id="C154" playOrder="155"><navLabel><text>139 - باب استحباب السلام إذا قام من المجلس وفارق جلساءه أو جليسه</text></navLabel><content src="xhtml/P988.xhtml#C154"/></navPoint>
+<navPoint id="C155" playOrder="156"><navLabel><text>140 - باب الاستئذان وآدابه</text></navLabel><content src="xhtml/P989.xhtml#C155"/></navPoint>
+<navPoint id="C156" playOrder="157"><navLabel><text>141 - باب بيان أن السنة إذا قيل للمستأذن: من أنت؟ أن يقول: فلان، فيسمي نفسه بما يعرف به من اسم أو كنية وكراهة قوله: «أنا» ونحوها</text></navLabel><content src="xhtml/P994.xhtml#C156"/></navPoint>
+<navPoint id="C157" playOrder="158"><navLabel><text>142 - باب استحباب تشميت العاطس إذا حمد الله تعالى وكراهة تشميته إذا لم يحمد الله تعالى وبيان آداب التشميت والعطاس والتثاؤب</text></navLabel><content src="xhtml/P998.xhtml#C157"/></navPoint>
+<navPoint id="C158" playOrder="159"><navLabel><text>143 - باب استحباب المصافحة عند اللقاء وبشاشة الوجه وتقبيل يد الرجل الصالح وتقبيل ولده شفقة ومعانقة القادم من سفر وكراهية الانحناء</text></navLabel><content src="xhtml/P1005.xhtml#C158"/></navPoint>
+</navPoint>
+<navPoint id="C159" playOrder="160"><navLabel><text>6 - كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه والمكث عند قبره بعد دفنه</text></navLabel><content src="xhtml/P1014.xhtml#C159"/><navPoint id="C160" playOrder="161"><navLabel><text>144 - باب عيادة المريض</text></navLabel><content src="xhtml/P1014.xhtml#C160"/></navPoint>
+<navPoint id="C161" playOrder="162"><navLabel><text>145 - باب ما يدعى به للمريض</text></navLabel><content src="xhtml/P1021.xhtml#C161"/></navPoint>
+<navPoint id="C162" playOrder="163"><navLabel><text>146 - باب استحباب سؤال أهل المريض عن حاله</text></navLabel><content src="xhtml/P1030.xhtml#C162"/></navPoint>
+<navPoint id="C163" playOrder="164"><navLabel><text>147 - باب ما يقوله من أيس من حياته</text></navLabel><content src="xhtml/P1031.xhtml#C163"/></navPoint>
+<navPoint id="C164" playOrder="165"><navLabel><text>148 - باب استحباب وصية أهل المريض ومن يخدمه بالإحسان إليه واحتماله والصبر على ما يشق من أمره وكذا الوصية بمن قرب سبب موته بحد أو قصاص ونحوهما</text></navLabel><content src="xhtml/P1033.xhtml#C164"/></navPoint>
+<navPoint id="C165" playOrder="166"><navLabel><text>149 - باب جواز قول المريض: أنا وجع، أو شديد الوجع أو موعوك أو وارأساه ونحو ذلك. وبيان أنه لا كراهة في ذلك إذا لم يكن على سبيل التسخط وإظهار الجزع</text></navLabel><content src="xhtml/P1034.xhtml#C165"/></navPoint>
+<navPoint id="C166" playOrder="167"><navLabel><text>150 - باب تلقين المحتضر: لا إله إلا الله</text></navLabel><content src="xhtml/P1037.xhtml#C166"/></navPoint>
+<navPoint id="C167" playOrder="168"><navLabel><text>151 - باب ما يقوله بعد تغميض الميت</text></navLabel><content src="xhtml/P1039.xhtml#C167"/></navPoint>
+<navPoint id="C168" playOrder="169"><navLabel><text>152 - باب ما يقال عند الميت وما يقوله من مات له ميت</text></navLabel><content src="xhtml/P1040.xhtml#C168"/></navPoint>
+<navPoint id="C169" playOrder="170"><navLabel><text>153 - باب جواز البكاء على الميت بغير ندب ولا نياحة</text></navLabel><content src="xhtml/P1045.xhtml#C169"/></navPoint>
+<navPoint id="C170" playOrder="171"><navLabel><text>154 - باب الكف عن ما يرى من الميت من مكروه</text></navLabel><content src="xhtml/P1048.xhtml#C170"/></navPoint>
+<navPoint id="C171" playOrder="172"><navLabel><text>155 - باب الصلاة على الميت وتشييعه وحضور دفنه، وكراهة اتباع النساء الجنائز، وقد سبق فضل التشييع.</text></navLabel><content src="xhtml/P1049.xhtml#C171"/></navPoint>
+<navPoint id="C172" playOrder="173"><navLabel><text>156 - باب استحباب تكثير المصلين على الجنازة وجعل صفوفهم ثلاثة فأكثر</text></navLabel><content src="xhtml/P1052.xhtml#C172"/></navPoint>
+<navPoint id="C173" playOrder="174"><navLabel><text>157 - باب ما يقرأ في صلاة الجنازة</text></navLabel><content src="xhtml/P1055.xhtml#C173"/></navPoint>
+<navPoint id="C174" playOrder="175"><navLabel><text>158 - باب الإسراع بالجنازة</text></navLabel><content src="xhtml/P1062.xhtml#C174"/></navPoint>
+<navPoint id="C175" playOrder="176"><navLabel><text>159 - باب تعجيل قضاء الدين عن الميت والمبادرة إلى تجهيزه إلا أن يموت فجأة فيترك حتى يتيقن موته</text></navLabel><content src="xhtml/P1064.xhtml#C175"/></navPoint>
+<navPoint id="C176" playOrder="177"><navLabel><text>160 - باب الموعظة عند القبر</text></navLabel><content src="xhtml/P1066.xhtml#C176"/></navPoint>
+<navPoint id="C177" playOrder="178"><navLabel><text>161 - باب الدعاء للميت بعد دفنه والقعود عند قبره ساعة للدعاء له والاستغفار والقراءة</text></navLabel><content src="xhtml/P1067.xhtml#C177"/></navPoint>
+<navPoint id="C178" playOrder="179"><navLabel><text>162 - باب الصدقة عن الميت والدعاء له</text></navLabel><content src="xhtml/P1069.xhtml#C178"/></navPoint>
+<navPoint id="C179" playOrder="180"><navLabel><text>163 - باب ثناء الناس على الميت</text></navLabel><content src="xhtml/P1072.xhtml#C179"/></navPoint>
+<navPoint id="C180" playOrder="181"><navLabel><text>164 - باب فضل من مات له أولاد صغار</text></navLabel><content src="xhtml/P1074.xhtml#C180"/></navPoint>
+<navPoint id="C181" playOrder="182"><navLabel><text>165 - باب البكاء والخوف عند المرور بقبور الظالمين ومصارعهم وإظهار الافتقار إلى الله تعالى والتحذير من الغفلة عن ذلك</text></navLabel><content src="xhtml/P1077.xhtml#C181"/></navPoint>
+</navPoint>
+<navPoint id="C182" playOrder="183"><navLabel><text>7 - كتاب آداب السفر</text></navLabel><content src="xhtml/P1078.xhtml#C182"/><navPoint id="C183" playOrder="184"><navLabel><text>166 - باب استحباب الخروج يوم الخميس، واستحبابه أول النهار</text></navLabel><content src="xhtml/P1078.xhtml#C183"/></navPoint>
+<navPoint id="C184" playOrder="185"><navLabel><text>167 - باب استحباب طلب الرفقة وتأميرهم على أنفسهم واحدا يطيعونه</text></navLabel><content src="xhtml/P1080.xhtml#C184"/></navPoint>
+<navPoint id="C185" playOrder="186"><navLabel><text>168 - باب آداب السير والنزول والمبيت والنوم في السفر واستحباب السرى والرفق بالدواب ومراعاة مصلحتها وأمر من قصر في حقها بالقيام بحقها وجواز الإرداف على الدابة إذا كانت تطيق ذلك</text></navLabel><content src="xhtml/P1084.xhtml#C185"/></navPoint>
+<navPoint id="C186" playOrder="187"><navLabel><text>169 - باب إعانة الرفيق</text></navLabel><content src="xhtml/P1091.xhtml#C186"/></navPoint>
+<navPoint id="C187" playOrder="188"><navLabel><text>170 - باب ما يقول إذا ركب دابة للسفر</text></navLabel><content src="xhtml/P1095.xhtml#C187"/><navPoint id="C188" playOrder="189"><navLabel><text>سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون. اللهم إنا نسألك في سفرنا هذا البر والتقوى، ومن العمل ما ترضى، اللهم هون علينا سفرنا</text></navLabel><content src="xhtml/P1096.xhtml#C188"/></navPoint>
+<navPoint id="C189" playOrder="190"><navLabel><text>الحمد لله الذي سخر لنا هذا وما كنا له مقرنين، وإنا إلى ربنا لمنقلبون</text></navLabel><content src="xhtml/P1098.xhtml#C189"/></navPoint>
+</navPoint>
+<navPoint id="C190" playOrder="191"><navLabel><text>171 - باب تكبير المسافر إذا صعد الثنايا وشبهها، وتسبيحه إذا هبط الأودية ونحوها، والنهي عن المبالغة برفع الصوت بالتكبير ونحوه</text></navLabel><content src="xhtml/P1099.xhtml#C190"/></navPoint>
+<navPoint id="C191" playOrder="192"><navLabel><text>172 - باب استحباب الدعاء في السفر</text></navLabel><content src="xhtml/P1104.xhtml#C191"/></navPoint>
+<navPoint id="C192" playOrder="193"><navLabel><text>173 - باب ما يدعو به إذا خاف ناسا أو غيرهم</text></navLabel><content src="xhtml/P1105.xhtml#C192"/></navPoint>
+<navPoint id="C193" playOrder="194"><navLabel><text>174 - باب ما يقول إذا نزل منزلا</text></navLabel><content src="xhtml/P1106.xhtml#C193"/></navPoint>
+<navPoint id="C194" playOrder="195"><navLabel><text>175 - باب استحباب تعجيل المسافر الرجوع إلى أهله إذا قضى حاجته</text></navLabel><content src="xhtml/P1108.xhtml#C194"/></navPoint>
+<navPoint id="C195" playOrder="196"><navLabel><text>176 - باب استحباب القدوم على أهله نهارا وكراهته في الليل لغير حاجة</text></navLabel><content src="xhtml/P1109.xhtml#C195"/></navPoint>
+<navPoint id="C196" playOrder="197"><navLabel><text>177 - باب ما يقول إذا رجع وإذا رأى بلدته</text></navLabel><content src="xhtml/P1111.xhtml#C196"/></navPoint>
+<navPoint id="C197" playOrder="198"><navLabel><text>178 - باب استحباب ابتداء القادم بالمسجد الذي في جواره وصلاته فيه ركعتين</text></navLabel><content src="xhtml/P1112.xhtml#C197"/></navPoint>
+<navPoint id="C198" playOrder="199"><navLabel><text>179 - باب تحريم سفر المرأة وحدها</text></navLabel><content src="xhtml/P1113.xhtml#C198"/></navPoint>
+</navPoint>
+<navPoint id="C199" playOrder="200"><navLabel><text>8 - كتاب الفضائل</text></navLabel><content src="xhtml/P1115.xhtml#C199"/><navPoint id="C200" playOrder="201"><navLabel><text>180 - باب فضل قراءة القرآن</text></navLabel><content src="xhtml/P1115.xhtml#C200"/></navPoint>
+<navPoint id="C201" playOrder="202"><navLabel><text>181 - باب الأمر بتعهد القرآن والتحذير عن تعريضه للنسيان</text></navLabel><content src="xhtml/P1126.xhtml#C201"/></navPoint>
+<navPoint id="C202" playOrder="203"><navLabel><text>182 - باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها</text></navLabel><content src="xhtml/P1128.xhtml#C202"/></navPoint>
+<navPoint id="C203" playOrder="204"><navLabel><text>183 - باب الحث على سور وآيات مخصوصة</text></navLabel><content src="xhtml/P1133.xhtml#C203"/></navPoint>
+<navPoint id="C204" playOrder="205"><navLabel><text>184 - باب استحباب الاجتماع على القراءة</text></navLabel><content src="xhtml/P1147.xhtml#C204"/></navPoint>
+<navPoint id="C205" playOrder="206"><navLabel><text>185 - باب فضل الوضوء</text></navLabel><content src="xhtml/P1148.xhtml#C205"/></navPoint>
+<navPoint id="C206" playOrder="207"><navLabel><text>186 - باب فضل الأذان</text></navLabel><content src="xhtml/P1158.xhtml#C206"/></navPoint>
+<navPoint id="C207" playOrder="208"><navLabel><text>187 - باب فضل الصلوات</text></navLabel><content src="xhtml/P1167.xhtml#C207"/></navPoint>
+<navPoint id="C208" playOrder="209"><navLabel><text>188 - باب فضل صلاة الصبح والعصر</text></navLabel><content src="xhtml/P1173.xhtml#C208"/></navPoint>
+<navPoint id="C209" playOrder="210"><navLabel><text>189 - باب فضل المشي إلى المساجد</text></navLabel><content src="xhtml/P1179.xhtml#C209"/></navPoint>
+<navPoint id="C210" playOrder="211"><navLabel><text>190 - باب فضل انتظار الصلاة</text></navLabel><content src="xhtml/P1187.xhtml#C210"/></navPoint>
+<navPoint id="C211" playOrder="212"><navLabel><text>191 - باب فضل صلاة الجماعة</text></navLabel><content src="xhtml/P1190.xhtml#C211"/></navPoint>
+<navPoint id="C212" playOrder="213"><navLabel><text>192 - باب الحث على حضور الجماعة في الصبح والعشاء</text></navLabel><content src="xhtml/P1197.xhtml#C212"/></navPoint>
+<navPoint id="C213" playOrder="214"><navLabel><text>193 - باب الأمر بالمحافظة على الصلوات المكتوبات والنهي الأكيد والوعيد الشديد في تركهن</text></navLabel><content src="xhtml/P1200.xhtml#C213"/></navPoint>
+<navPoint id="C214" playOrder="215"><navLabel><text>194 - باب فضل الصف الأول والأمر بإتمام الصفوف الأول وتسويتها والتراص فيها</text></navLabel><content src="xhtml/P1209.xhtml#C214"/></navPoint>
+<navPoint id="C215" playOrder="216"><navLabel><text>195 - باب فضل السنن الراتبة مع الفرائض وبيان أقلها وأكملها وما بينهما</text></navLabel><content src="xhtml/P1224.xhtml#C215"/></navPoint>
+<navPoint id="C216" playOrder="217"><navLabel><text>196 - باب تأكيد ركعتي سنة الصبح</text></navLabel><content src="xhtml/P1227.xhtml#C216"/></navPoint>
+<navPoint id="C217" playOrder="218"><navLabel><text>197 - باب تخفيف ركعتي الفجر وبيان ما يقرأ فيهما وبيان وقتهما</text></navLabel><content src="xhtml/P1231.xhtml#C217"/></navPoint>
+<navPoint id="C218" playOrder="219"><navLabel><text>198 - باب استحباب الاضطجاع بعد ركعتي الفجر على جنبه الأيمن والحث عليه سواء كان تهجد بالليل أم لا</text></navLabel><content src="xhtml/P1237.xhtml#C218"/></navPoint>
+<navPoint id="C219" playOrder="220"><navLabel><text>199 - باب سنة الظهر</text></navLabel><content src="xhtml/P1240.xhtml#C219"/></navPoint>
+<navPoint id="C220" playOrder="221"><navLabel><text>200 - باب سنة العصر</text></navLabel><content src="xhtml/P1246.xhtml#C220"/></navPoint>
+<navPoint id="C221" playOrder="222"><navLabel><text>201 - باب سنة المغرب بعدها وقبلها</text></navLabel><content src="xhtml/P1249.xhtml#C221"/></navPoint>
+<navPoint id="C222" playOrder="223"><navLabel><text>202 - باب سنة العشاء بعدها وقبلها</text></navLabel><content src="xhtml/P1253.xhtml#C222"/></navPoint>
+<navPoint id="C223" playOrder="224"><navLabel><text>203 - باب سنة الجمعة</text></navLabel><content src="xhtml/P1254.xhtml#C223"/></navPoint>
+<navPoint id="C224" playOrder="225"><navLabel><text>204 - باب استحباب جعل النوافل في البيت سواء الراتبة وغيرها والأمر بالتحول للنافلة من موضع الفريضة أو الفصل بينهما بكلام</text></navLabel><content src="xhtml/P1256.xhtml#C224"/></navPoint>
+<navPoint id="C225" playOrder="226"><navLabel><text>205 - باب الحث على صلاة الوتر وبيان أنه سنة مؤكدة وبيان وقته</text></navLabel><content src="xhtml/P1260.xhtml#C225"/></navPoint>
+<navPoint id="C226" playOrder="227"><navLabel><text>206 - باب فضل صلاة الضحى وبيان أقلها وأكثرها وأوسطها، والحث على المحافظة عليها</text></navLabel><content src="xhtml/P1267.xhtml#C226"/></navPoint>
+<navPoint id="C227" playOrder="228"><navLabel><text>207 - باب تجويز صلاة الضحى من ارتفاع الشمس إلى زوالها والأفضل أن تصلى عند اشتداد الحر وارتفاع الضحى</text></navLabel><content src="xhtml/P1271.xhtml#C227"/></navPoint>
+<navPoint id="C228" playOrder="229"><navLabel><text>208 - باب الحث على صلاة تحية المسجد بركعتين وكراهة الجلوس قبل أن يصلي ركعتين في أي وقت دخل وسواء صلى ركعتين بنية التحية أو صلاة فريضة أو سنة راتبة أو غيرها</text></navLabel><content src="xhtml/P1272.xhtml#C228"/></navPoint>
+<navPoint id="C229" playOrder="230"><navLabel><text>209 - باب استحباب ركعتين بعد الوضوء</text></navLabel><content src="xhtml/P1274.xhtml#C229"/></navPoint>
+<navPoint id="C230" playOrder="231"><navLabel><text>210 - باب فضل يوم الجمعة ووجوبها والاغتسال لها والطيب والتبكير إليها والدعاء يوم الجمعة والصلاة على النبي - صلى الله عليه وسلم - وفيه بيان ساعة الإجابة واستحباب إكثار ذكر الله تعالى بعد الجمعة</text></navLabel><content src="xhtml/P1275.xhtml#C230"/></navPoint>
+<navPoint id="C231" playOrder="232"><navLabel><text>211 - باب استحباب سجود الشكر عند حصول نعمة ظاهرة أو اندفاع بلية ظاهرة</text></navLabel><content src="xhtml/P1288.xhtml#C231"/></navPoint>
+<navPoint id="C232" playOrder="233"><navLabel><text>212 - باب فضل قيام الليل</text></navLabel><content src="xhtml/P1289.xhtml#C232"/></navPoint>
+<navPoint id="C233" playOrder="234"><navLabel><text>213 - باب استحباب قيام رمضان وهو التراويح</text></navLabel><content src="xhtml/P1317.xhtml#C233"/></navPoint>
+<navPoint id="C234" playOrder="235"><navLabel><text>214 - باب فضل قيام ليلة القدر وبيان أرجى لياليها</text></navLabel><content src="xhtml/P1319.xhtml#C234"/></navPoint>
+<navPoint id="C235" playOrder="236"><navLabel><text>215 - باب فضل السواك وخصال الفطرة</text></navLabel><content src="xhtml/P1327.xhtml#C235"/></navPoint>
+<navPoint id="C236" playOrder="237"><navLabel><text>216 - باب تأكيد وجوب الزكاة وبيان فضلها وما يتعلق بها</text></navLabel><content src="xhtml/P1337.xhtml#C236"/></navPoint>
+<navPoint id="C237" playOrder="238"><navLabel><text>217 - باب وجوب صوم رمضان وبيان فضل الصيام وما يتعلق به</text></navLabel><content src="xhtml/P1349.xhtml#C237"/></navPoint>
+<navPoint id="C238" playOrder="239"><navLabel><text>218 - باب الجود وفعل المعروف والإكثار من الخير في شهر رمضان والزيادة من ذلك في العشر الأواخر منه</text></navLabel><content src="xhtml/P1357.xhtml#C238"/></navPoint>
+<navPoint id="C239" playOrder="240"><navLabel><text>219 - باب النهي عن تقدم رمضان بصوم بعد نصف شعبان إلا لمن وصله بما قبله أو وافق عادة له بأن كان عادته صوم الإثنين والخميس فوافقه</text></navLabel><content src="xhtml/P1359.xhtml#C239"/></navPoint>
+<navPoint id="C240" playOrder="241"><navLabel><text>220 - باب ما يقال عند رؤية الهلال</text></navLabel><content src="xhtml/P1363.xhtml#C240"/></navPoint>
+<navPoint id="C241" playOrder="242"><navLabel><text>221 - باب فضل السحور وتأخيره ما لم يخش طلوع الفجر</text></navLabel><content src="xhtml/P1364.xhtml#C241"/></navPoint>
+<navPoint id="C242" playOrder="243"><navLabel><text>222 - باب فضل تعجيل الفطر وما يفطر عليه، وما يقوله بعد الإفطار</text></navLabel><content src="xhtml/P1368.xhtml#C242"/></navPoint>
+<navPoint id="C243" playOrder="244"><navLabel><text>223 - باب أمر الصائم بحفظ لسانه وجوارحه عن المخالفات والمشاتمة ونحوها</text></navLabel><content src="xhtml/P1375.xhtml#C243"/></navPoint>
+<navPoint id="C244" playOrder="245"><navLabel><text>224 - باب في مسائل من الصوم</text></navLabel><content src="xhtml/P1377.xhtml#C244"/></navPoint>
+<navPoint id="C245" playOrder="246"><navLabel><text>225 - باب فضل صوم المحرم وشعبان والأشهر الحرم</text></navLabel><content src="xhtml/P1381.xhtml#C245"/></navPoint>
+<navPoint id="C246" playOrder="247"><navLabel><text>226 - باب فضل الصوم وغيره في العشر الأول من ذي الحجة</text></navLabel><content src="xhtml/P1384.xhtml#C246"/></navPoint>
+<navPoint id="C247" playOrder="248"><navLabel><text>227 - باب فضل صوم يوم عرفة وعاشوراء وتاسوعاء</text></navLabel><content src="xhtml/P1385.xhtml#C247"/></navPoint>
+<navPoint id="C248" playOrder="249"><navLabel><text>228 - باب استحباب صوم ستة أيام من شوال</text></navLabel><content src="xhtml/P1389.xhtml#C248"/></navPoint>
+<navPoint id="C249" playOrder="250"><navLabel><text>229 - باب استحباب صوم الإثنين والخميس</text></navLabel><content src="xhtml/P1390.xhtml#C249"/></navPoint>
+<navPoint id="C250" playOrder="251"><navLabel><text>230 - باب استحباب صوم ثلاثة أيام من كل شهر</text></navLabel><content src="xhtml/P1393.xhtml#C250"/></navPoint>
+<navPoint id="C251" playOrder="252"><navLabel><text>231 - باب فضل من فطر صائما وفضل الصائم الذي يؤكل عنده ودعاء الآكل للمأكول عنده</text></navLabel><content src="xhtml/P1401.xhtml#C251"/></navPoint>
+</navPoint>
+<navPoint id="C252" playOrder="253"><navLabel><text>9 - كتاب الاعتكاف</text></navLabel><content src="xhtml/P1404.xhtml#C252"/><navPoint id="C253" playOrder="254"><navLabel><text>232 - باب الاعتكاف في رمضان</text></navLabel><content src="xhtml/P1404.xhtml#C253"/></navPoint>
+</navPoint>
+<navPoint id="C254" playOrder="255"><navLabel><text>10 - كتاب الحج</text></navLabel><content src="xhtml/P1407.xhtml#C254"/><navPoint id="C255" playOrder="256"><navLabel><text>233 - باب وجوب الحج وفضله</text></navLabel><content src="xhtml/P1407.xhtml#C255"/></navPoint>
+</navPoint>
+<navPoint id="C256" playOrder="257"><navLabel><text>11 - كتاب الجهاد</text></navLabel><content src="xhtml/P1422.xhtml#C256"/><navPoint id="C257" playOrder="258"><navLabel><text>234 - باب وجوب الجهاد وفضل الغدوة والروحة</text></navLabel><content src="xhtml/P1422.xhtml#C257"/></navPoint>
+<navPoint id="C258" playOrder="259"><navLabel><text>235 - باب بيان جماعة من الشهداء في ثواب الآخرة يغسلون ويصلى عليهم بخلاف القتيل في حرب الكفار</text></navLabel><content src="xhtml/P1491.xhtml#C258"/></navPoint>
+<navPoint id="C259" playOrder="260"><navLabel><text>236 - باب فضل العتق</text></navLabel><content src="xhtml/P1496.xhtml#C259"/></navPoint>
+<navPoint id="C260" playOrder="261"><navLabel><text>237 - باب فضل الإحسان إلى المملوك</text></navLabel><content src="xhtml/P1499.xhtml#C260"/></navPoint>
+<navPoint id="C261" playOrder="262"><navLabel><text>238 - باب فضل المملوك الذي يؤدي حق الله وحق مواليه</text></navLabel><content src="xhtml/P1502.xhtml#C261"/></navPoint>
+<navPoint id="C262" playOrder="263"><navLabel><text>239 - باب فضل العبادة في الهرج</text></navLabel><content src="xhtml/P1506.xhtml#C262"/></navPoint>
+<navPoint id="C263" playOrder="264"><navLabel><text>240 - باب فضل السماحة في البيع والشراء والأخذ والعطاء وحسن القضاء والتقاضي وإرجاح المكيال والميزان، والنهي عن التطفيف وفضل إنظار الموسر المعسر والوضع عنه</text></navLabel><content src="xhtml/P1507.xhtml#C263"/></navPoint>
+</navPoint>
+<navPoint id="C264" playOrder="265"><navLabel><text>12 - كتاب العلم</text></navLabel><content src="xhtml/P1517.xhtml#C264"/><navPoint id="C265" playOrder="266"><navLabel><text>241 - باب فضل العلم تعلما وتعليما لله</text></navLabel><content src="xhtml/P1517.xhtml#C265"/></navPoint>
+</navPoint>
+<navPoint id="C266" playOrder="267"><navLabel><text>13 - كتاب حمد الله تعالى وشكره</text></navLabel><content src="xhtml/P1535.xhtml#C266"/><navPoint id="C267" playOrder="268"><navLabel><text>242 - باب وجوب الشكر</text></navLabel><content src="xhtml/P1535.xhtml#C267"/></navPoint>
+</navPoint>
+<navPoint id="C268" playOrder="269"><navLabel><text>14 - كتاب الصلاة على رسول الله - صلى الله عليه وسلم</text></navLabel><content src="xhtml/P1540.xhtml#C268"/><navPoint id="C269" playOrder="270"><navLabel><text>243 - باب الأمر بالصلاة عليه وفضلها وبعض صيغها</text></navLabel><content src="xhtml/P1540.xhtml#C269"/></navPoint>
+</navPoint>
+<navPoint id="C270" playOrder="271"><navLabel><text>15 - كتاب الأذكار</text></navLabel><content src="xhtml/P1552.xhtml#C270"/><navPoint id="C271" playOrder="272"><navLabel><text>244 - باب فضل الذكر والحث عليه</text></navLabel><content src="xhtml/P1552.xhtml#C271"/><navPoint id="C272" playOrder="273"><navLabel><text>سبحان الله وبحمده، سبحان الله العظيم</text></navLabel><content src="xhtml/P1553.xhtml#C272"/></navPoint>
+<navPoint id="C273" playOrder="274"><navLabel><text>سبحان الله؛ والحمد لله؛ ولا إله إلا الله، والله أكبر</text></navLabel><content src="xhtml/P1554.xhtml#C273"/></navPoint>
+<navPoint id="C274" playOrder="275"><navLabel><text>لا إله إلا الله وحده لا شريك له، له الملك وله الحمد؛ وهو على كل شيء قدير</text></navLabel><content src="xhtml/P1555.xhtml#C274"/></navPoint>
+<navPoint id="C275" playOrder="276"><navLabel><text>سبحان الله وبحمده</text></navLabel><content src="xhtml/P1555.xhtml#C275"/></navPoint>
+<navPoint id="C276" playOrder="277"><navLabel><text>لا إله إلا الله وحده لا شريك له، له الملك؛ وله الحمد، وهو على كل شيء قدير، عشر مرات</text></navLabel><content src="xhtml/P1556.xhtml#C276"/></navPoint>
+<navPoint id="C277" playOrder="278"><navLabel><text>سبحان الله وبحمده</text></navLabel><content src="xhtml/P1557.xhtml#C277"/></navPoint>
+<navPoint id="C278" playOrder="279"><navLabel><text>وسبحان الله والحمد لله</text></navLabel><content src="xhtml/P1558.xhtml#C278"/></navPoint>
+<navPoint id="C279" playOrder="280"><navLabel><text>لا إله إلا الله وحده لا شريك له، الله أكبر كبيرا، والحمد لله كثيرا، وسبحان الله رب العالمين، ولا حول ولا قوة إلا بالله العزيز الحكيم</text></navLabel><content src="xhtml/P1559.xhtml#C279"/></navPoint>
+<navPoint id="C280" playOrder="281"><navLabel><text>اللهم اغفر لي، وارحمني واهدني، وارزقني</text></navLabel><content src="xhtml/P1559.xhtml#C280"/></navPoint>
+<navPoint id="C281" playOrder="282"><navLabel><text>اللهم أنت السلام، ومنك السلام، تباركت يا ذا الجلال والإكرام</text></navLabel><content src="xhtml/P1560.xhtml#C281"/></navPoint>
+<navPoint id="C282" playOrder="283"><navLabel><text>لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير، اللهم لا مانع لما أعطيت، ولا معطي لما منعت</text></navLabel><content src="xhtml/P1561.xhtml#C282"/></navPoint>
+<navPoint id="C283" playOrder="284"><navLabel><text>لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير. لا حول ولا قوة إلا بالله، لا إله إلا الله، ولا نعبد إلا إياه، له النعمة وله الفضل وله ا</text></navLabel><content src="xhtml/P1562.xhtml#C283"/></navPoint>
+<navPoint id="C284" playOrder="285"><navLabel><text>تسبحون، وتحمدون، وتكبرون، خلف كل صلاة ثلاثا وثلاثين</text></navLabel><content src="xhtml/P1563.xhtml#C284"/></navPoint>
+<navPoint id="C285" playOrder="286"><navLabel><text>لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير</text></navLabel><content src="xhtml/P1564.xhtml#C285"/></navPoint>
+<navPoint id="C286" playOrder="287"><navLabel><text>اللهم إني أعوذ بك من الجبن والبخل، وأعوذ بك من أن أرد إلى أرذل العمر، وأعوذ بك من فتنة الدنيا، وأعوذ بك من فتنة القبر</text></navLabel><content src="xhtml/P1566.xhtml#C286"/></navPoint>
+<navPoint id="C287" playOrder="288"><navLabel><text>اللهم أعني على ذكرك، وشكرك، وحسن عبادتك</text></navLabel><content src="xhtml/P1567.xhtml#C287"/></navPoint>
+<navPoint id="C288" playOrder="289"><navLabel><text>اللهم إني أعوذ بك من عذاب جهنم، ومن عذاب القبر، ومن فتنة المحيا والممات، ومن شر فتنة المسيح الدجال</text></navLabel><content src="xhtml/P1568.xhtml#C288"/></navPoint>
+<navPoint id="C289" playOrder="290"><navLabel><text>اللهم اغفر لي ما قدمت وما أخرت، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به مني، أنت المقدم، وأنت المؤخر، لا إله إلا أنت</text></navLabel><content src="xhtml/P1569.xhtml#C289"/></navPoint>
+<navPoint id="C290" playOrder="291"><navLabel><text>سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي</text></navLabel><content src="xhtml/P1570.xhtml#C290"/></navPoint>
+<navPoint id="C291" playOrder="292"><navLabel><text>سبوح قدوس رب الملائكة والروح</text></navLabel><content src="xhtml/P1571.xhtml#C291"/></navPoint>
+<navPoint id="C292" playOrder="293"><navLabel><text>اللهم اغفر لي ذنبي كله: دقه وجله، وأوله وآخره، وعلانيته وسره</text></navLabel><content src="xhtml/P1574.xhtml#C292"/></navPoint>
+<navPoint id="C293" playOrder="294"><navLabel><text>سبحانك وبحمدك، لا إله إلا أنت</text></navLabel><content src="xhtml/P1575.xhtml#C293"/></navPoint>
+<navPoint id="C294" playOrder="295"><navLabel><text>اللهم إني أعوذ برضاك من سخطك، وبمعافاتك من عقوبتك، وأعوذ بك منك، لا أحصي ثناء عليك أنت كما أثنيت على نفسك</text></navLabel><content src="xhtml/P1575.xhtml#C294"/></navPoint>
+<navPoint id="C295" playOrder="296"><navLabel><text>سبحان الله وبحمده عدد خلقه، ورضا نفسه، وزنة عرشه، ومداد كلماته</text></navLabel><content src="xhtml/P1578.xhtml#C295"/></navPoint>
+<navPoint id="C296" playOrder="297"><navLabel><text>سبحان الله عدد خلقه، سبحان الله رضا نفسه، سبحان الله زنة عرشه، سبحان الله مداد كلماته</text></navLabel><content src="xhtml/P1578.xhtml#C296"/></navPoint>
+<navPoint id="C297" playOrder="298"><navLabel><text>أفضل الذكر: لا إله إلا الله</text></navLabel><content src="xhtml/P1582.xhtml#C297"/></navPoint>
+<navPoint id="C298" playOrder="299"><navLabel><text>سبحان الله وبحمده</text></navLabel><content src="xhtml/P1584.xhtml#C298"/></navPoint>
+<navPoint id="C299" playOrder="300"><navLabel><text>سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر</text></navLabel><content src="xhtml/P1585.xhtml#C299"/></navPoint>
+<navPoint id="C300" playOrder="301"><navLabel><text>سبحان الله عدد ما خلق في السماء، وسبحان الله عدد ما خلق في الأرض، وسبحان الله عدد ما بين ذلك، وسبحان الله عدد ما هو خالق، والله أكبر مثل ذلك، والحمد لله مثل ذلك؛ ولا إله إ</text></navLabel><content src="xhtml/P1587.xhtml#C300"/></navPoint>
+<navPoint id="C301" playOrder="302"><navLabel><text>لا حول ولا قوة إلا بالله</text></navLabel><content src="xhtml/P1588.xhtml#C301"/></navPoint>
+</navPoint>
+<navPoint id="C302" playOrder="303"><navLabel><text>245 - باب ذكر الله تعالى قائما أو قاعدا ومضطجعا ومحدثا وجنبا وحائضا إلا القرآن فلا يحل لجنب ولا حائض</text></navLabel><content src="xhtml/P1589.xhtml#C302"/></navPoint>
+<navPoint id="C303" playOrder="304"><navLabel><text>246 - باب ما يقوله عند نومه واستيقاظه</text></navLabel><content src="xhtml/P1592.xhtml#C303"/><navPoint id="C304" playOrder="305"><navLabel><text>باسمك اللهم أحيا وأموت</text></navLabel><content src="xhtml/P1592.xhtml#C304"/></navPoint>
+<navPoint id="C305" playOrder="306"><navLabel><text>الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور</text></navLabel><content src="xhtml/P1592.xhtml#C305"/></navPoint>
+</navPoint>
+<navPoint id="C306" playOrder="307"><navLabel><text>247 - باب فضل حلق الذكر والندب إلى ملازمتها والنهي عن مفارقتها لغير عذر</text></navLabel><content src="xhtml/P1593.xhtml#C306"/></navPoint>
+<navPoint id="C307" playOrder="308"><navLabel><text>248 - باب الذكر عند الصباح والمساء</text></navLabel><content src="xhtml/P1599.xhtml#C307"/><navPoint id="C308" playOrder="309"><navLabel><text>سبحان الله وبحمده، مائة مرة</text></navLabel><content src="xhtml/P1600.xhtml#C308"/></navPoint>
+<navPoint id="C309" playOrder="310"><navLabel><text>أعوذ بكلمات الله التامات من شر ما خلق: لم تضرك</text></navLabel><content src="xhtml/P1601.xhtml#C309"/></navPoint>
+<navPoint id="C310" playOrder="311"><navLabel><text>اللهم بك أصبحنا، وبك أمسينا، وبك نحيا، وبك نموت، وإليك النشور</text></navLabel><content src="xhtml/P1602.xhtml#C310"/></navPoint>
+<navPoint id="C311" playOrder="312"><navLabel><text>اللهم بك أمسينا، وبك نحيا، وبك نموت. وإليك النشور</text></navLabel><content src="xhtml/P1602.xhtml#C311"/></navPoint>
+<navPoint id="C312" playOrder="313"><navLabel><text>اللهم فاطر السماوات والأرض عالم الغيب والشهادة؛ رب كل شيء ومليكه، أشهد أن لا إله إلا أنت، أعوذ بك من شر نفسي وشر الشيطان وشركه</text></navLabel><content src="xhtml/P1603.xhtml#C312"/></navPoint>
+<navPoint id="C313" playOrder="314"><navLabel><text>أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له</text></navLabel><content src="xhtml/P1604.xhtml#C313"/></navPoint>
+<navPoint id="C314" playOrder="315"><navLabel><text>له الملك وله الحمد وهو على كل شيء قدير، رب أسألك خير ما في هذه الليلة وخير ما بعدها، وأعوذ بك من شر ما في هذه الليلة وشر ما بعدها، رب أعوذ بك من الكسل، وسوء ال</text></navLabel><content src="xhtml/P1604.xhtml#C314"/></navPoint>
+<navPoint id="C315" playOrder="316"><navLabel><text>قل هو الله أحد، والمعوذتين حين تمسي وحين تصبح</text></navLabel><content src="xhtml/P1605.xhtml#C315"/></navPoint>
+<navPoint id="C316" playOrder="317"><navLabel><text>بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم</text></navLabel><content src="xhtml/P1606.xhtml#C316"/></navPoint>
+</navPoint>
+<navPoint id="C317" playOrder="318"><navLabel><text>249 - باب ما يقوله عند النوم</text></navLabel><content src="xhtml/P1607.xhtml#C317"/><navPoint id="C318" playOrder="319"><navLabel><text>باسمك اللهم أحيا وأموت</text></navLabel><content src="xhtml/P1608.xhtml#C318"/></navPoint>
+<navPoint id="C319" playOrder="320"><navLabel><text>فكبرا ثلاثا وثلاثين، وسبحا ثلاثا وثلاثين، واحمدا ثلاثا وثلاثين</text></navLabel><content src="xhtml/P1609.xhtml#C319"/></navPoint>
+<navPoint id="C320" playOrder="321"><navLabel><text>باسمك ربي وضعت جنبي، وبك أرفعه، إن أمسكت نفسي فارحمها، وإن أرسلتها، فاحفظها بما تحفظ به عبادك الصالحين</text></navLabel><content src="xhtml/P1610.xhtml#C320"/></navPoint>
+<navPoint id="C321" playOrder="322"><navLabel><text>قل هو الله أحد، وقل أعوذ برب الفلق، وقل أعوذ برب الناس</text></navLabel><content src="xhtml/P1611.xhtml#C321"/></navPoint>
+<navPoint id="C322" playOrder="323"><navLabel><text>اللهم أسلمت نفسي إليك، ووجهت وجهي إليك، وفوضت أمري إليك، وألجأت ظهري إليك، رغبة ورهبة إليك، لا ملجأ ولا منجا منك إلا إليك، آمنت بكتابك الذي أنزلت، وبنبيك ال</text></navLabel><content src="xhtml/P1612.xhtml#C322"/></navPoint>
+<navPoint id="C323" playOrder="324"><navLabel><text>الحمد لله الذي أطعمنا وسقانا، وكفانا وآوانا، فكم ممن لا كافي له ولا مؤوي</text></navLabel><content src="xhtml/P1613.xhtml#C323"/></navPoint>
+<navPoint id="C324" playOrder="325"><navLabel><text>اللهم قني عذابك يوم تبعث عبادك</text></navLabel><content src="xhtml/P1614.xhtml#C324"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="C325" playOrder="326"><navLabel><text>16 - كتاب الدعوات</text></navLabel><content src="xhtml/P1615.xhtml#C325"/><navPoint id="C326" playOrder="327"><navLabel><text>250 - باب الأمر بالدعاء وفضله وبيان جمل من أدعيته - صلى الله عليه وسلم.</text></navLabel><content src="xhtml/P1615.xhtml#C326"/><navPoint id="C327" playOrder="328"><navLabel><text>اللهم آتنا في الدنيا حسنة، وفي الآخرة حسنة، وقنا عذاب النار</text></navLabel><content src="xhtml/P1618.xhtml#C327"/></navPoint>
+<navPoint id="C328" playOrder="329"><navLabel><text>اللهم إني أسألك الهدى، والتقى، والعفاف، والغنى</text></navLabel><content src="xhtml/P1619.xhtml#C328"/></navPoint>
+<navPoint id="C329" playOrder="330"><navLabel><text>للهم اغفر لي، وارحمني، واهدني، وعافني، وارزقني</text></navLabel><content src="xhtml/P1620.xhtml#C329"/></navPoint>
+<navPoint id="C330" playOrder="331"><navLabel><text>اللهم اغفر لي، وارحمني، وعافني، وارزقني</text></navLabel><content src="xhtml/P1620.xhtml#C330"/></navPoint>
+<navPoint id="C331" playOrder="332"><navLabel><text>اللهم مصرف القلوب صرف قلوبنا على طاعتك</text></navLabel><content src="xhtml/P1621.xhtml#C331"/></navPoint>
+<navPoint id="C332" playOrder="333"><navLabel><text>من جهد البلاء، ودرك الشقاء، وسوء القضاء، وشماتة الأعداء</text></navLabel><content src="xhtml/P1622.xhtml#C332"/></navPoint>
+<navPoint id="C333" playOrder="334"><navLabel><text>اللهم أصلح لي ديني الذي هو عصمة أمري، وأصلح لي دنياي التي فيها معاشي، وأصلح لي آخرتي التي فيها معادي، واجعل الحياة زيادة لي في كل خير، واجعل الموت راحة لي من كل شر</text></navLabel><content src="xhtml/P1623.xhtml#C333"/></navPoint>
+<navPoint id="C334" playOrder="335"><navLabel><text>اللهم إني أسألك الهدى والسداد</text></navLabel><content src="xhtml/P1624.xhtml#C334"/></navPoint>
+<navPoint id="C335" playOrder="336"><navLabel><text>اللهم إني أعوذ بك من العجز، والكسل، والجبن، والهرم، والبخل، وأعوذ بك من عذاب القبر، وأعوذ بك من فتنة المحيا والممات</text></navLabel><content src="xhtml/P1625.xhtml#C335"/></navPoint>
+<navPoint id="C336" playOrder="337"><navLabel><text>اللهم إني ظلمت نفسي ظلما كثيرا، ولا يغفر الذنوب إلا أنت، فاغفر لي مغفرة من عندك، وارحمني، إنك أنت الغفور الرحيم</text></navLabel><content src="xhtml/P1626.xhtml#C336"/></navPoint>
+<navPoint id="C337" playOrder="338"><navLabel><text>اللهم اغفر لي خطيئتي وجهلي، وإسرافي في أمري، وما أنت أعلم به مني، اللهم اغفر لي جدي وهزلي؛ وخطئي وعمدي؛ وكل ذلك عندي، اللهم اغفر لي ما قدمت وما أخرت، وما أس</text></navLabel><content src="xhtml/P1627.xhtml#C337"/></navPoint>
+<navPoint id="C338" playOrder="339"><navLabel><text>اللهم إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل</text></navLabel><content src="xhtml/P1628.xhtml#C338"/></navPoint>
+<navPoint id="C339" playOrder="340"><navLabel><text>اللهم إني أعوذ بك من زوال نعمتك، وتحول عافيتك، وفجاءة نقمتك، وجميع سخطك</text></navLabel><content src="xhtml/P1629.xhtml#C339"/></navPoint>
+<navPoint id="C340" playOrder="341"><navLabel><text>اللهم إني أعوذ بك من العجز والكسل، والبخل والهرم، وعذاب القبر، اللهم آت نفسي تقواها، وزكها أنت خير من زكاها، أنت وليها ومولاها، اللهم إني أعوذ بك من علم لا ي</text></navLabel><content src="xhtml/P1630.xhtml#C340"/></navPoint>
+<navPoint id="C341" playOrder="342"><navLabel><text>اللهم لك أسلمت، وبك آمنت، وعليك توكلت، وإليك أنبت، وبك خاصمت، وإليك حاكمت. فاغفر لي ما قدمت، وما أخرت، وما أسررت، وما أعلنت، أنت المقدم، وأنت المؤخر، لا إله</text></navLabel><content src="xhtml/P1631.xhtml#C341"/></navPoint>
+<navPoint id="C342" playOrder="343"><navLabel><text>اللهم إني أعوذ بك من فتنة النار، وعذاب النار، ومن شر الغنى والفقر</text></navLabel><content src="xhtml/P1632.xhtml#C342"/></navPoint>
+<navPoint id="C343" playOrder="344"><navLabel><text>اللهم إني أعوذ بك من منكرات الأخلاق، والأعمال، والأهواء</text></navLabel><content src="xhtml/P1633.xhtml#C343"/></navPoint>
+<navPoint id="C344" playOrder="345"><navLabel><text>اللهم إني أعوذ بك من شر سمعي، ومن شر بصري، ومن شر لساني، ومن شر قلبي، ومن شر منيي</text></navLabel><content src="xhtml/P1634.xhtml#C344"/></navPoint>
+<navPoint id="C345" playOrder="346"><navLabel><text>اللهم إني أعوذ بك من البرص، والجنون، والجذام، وسييء لأسقام</text></navLabel><content src="xhtml/P1635.xhtml#C345"/></navPoint>
+<navPoint id="C346" playOrder="347"><navLabel><text>اللهم إني أعوذ بك من الجوع، فإنه بئس الضجيع، وأعوذ بك من الخيانة، فإنها بئست البطانة</text></navLabel><content src="xhtml/P1636.xhtml#C346"/></navPoint>
+<navPoint id="C347" playOrder="348"><navLabel><text>اللهم اكفني بحلالك عن حرامك، وأغنني بفضلك عمن سواك</text></navLabel><content src="xhtml/P1637.xhtml#C347"/></navPoint>
+<navPoint id="C348" playOrder="349"><navLabel><text>اللهم ألهمني رشدي، وأعذني من شر نفسي</text></navLabel><content src="xhtml/P1638.xhtml#C348"/></navPoint>
+<navPoint id="C349" playOrder="350"><navLabel><text>يا مقلب القلوب ثبت قلبي على دينك</text></navLabel><content src="xhtml/P1640.xhtml#C349"/></navPoint>
+<navPoint id="C350" playOrder="351"><navLabel><text>اللهم إني أسألك حبك، وحب من يحبك، والعمل الذي يبلغني حبك، اللهم اجعل حبك أحب إلي من نفسي، وأهلي، ومن الماء البارد</text></navLabel><content src="xhtml/P1641.xhtml#C350"/></navPoint>
+<navPoint id="C351" playOrder="352"><navLabel><text>ياذا الجلال والإكرام</text></navLabel><content src="xhtml/P1642.xhtml#C351"/></navPoint>
+<navPoint id="C352" playOrder="353"><navLabel><text>اللهم إني أسألك من خير ما سألك منه نبيك محمد - صلى الله عليه وسلم -؛ وأعوذ بك من شر ما استعاذ منه نبيك محمد - صلى الله عليه وسلم - وأنت المستعان، وعليك البلاغ، ولا حول ولا قو</text></navLabel><content src="xhtml/P1643.xhtml#C352"/></navPoint>
+<navPoint id="C353" playOrder="354"><navLabel><text>اللهم إني أسألك موجبات رحمتك، وعزائم مغفرتك، والسلامة من كل إثم، والغنيمة من كل بر، والفوز بالجنة، والنجاة من النار</text></navLabel><content src="xhtml/P1644.xhtml#C353"/></navPoint>
+</navPoint>
+<navPoint id="C354" playOrder="355"><navLabel><text>251 - باب فضل الدعاء بظهر الغيب</text></navLabel><content src="xhtml/P1645.xhtml#C354"/></navPoint>
+<navPoint id="C355" playOrder="356"><navLabel><text>252 - باب في مسائل من الدعاء</text></navLabel><content src="xhtml/P1648.xhtml#C355"/><navPoint id="C356" playOrder="357"><navLabel><text>جزاك الله خيرا</text></navLabel><content src="xhtml/P1648.xhtml#C356"/></navPoint>
+<navPoint id="C357" playOrder="358"><navLabel><text>لا إله إلا الله العظيم الحليم، لا إله إلا الله رب العرش العظيم، لا إله إلا الله رب السماوات، ورب الأرض، ورب العرش الكريم</text></navLabel><content src="xhtml/P1654.xhtml#C357"/></navPoint>
+</navPoint>
+<navPoint id="C358" playOrder="359"><navLabel><text>253 - باب كرامات الأولياء وفضلهم</text></navLabel><content src="xhtml/P1655.xhtml#C358"/></navPoint>
+</navPoint>
+<navPoint id="C359" playOrder="360"><navLabel><text>17 - كتاب الأمور المنهي عنها</text></navLabel><content src="xhtml/P1666.xhtml#C359"/><navPoint id="C360" playOrder="361"><navLabel><text>254 - باب تحريم الغيبة والأمر بحفظ اللسان</text></navLabel><content src="xhtml/P1666.xhtml#C360"/></navPoint>
+<navPoint id="C361" playOrder="362"><navLabel><text>255 - باب تحريم سماع الغيبة وأمر من سمع غيبة محرمة بردها والإنكار على قائلها فإن عجز أو لم يقبل منه فارق ذلك المجلس إن أمكنه</text></navLabel><content src="xhtml/P1684.xhtml#C361"/></navPoint>
+<navPoint id="C362" playOrder="363"><navLabel><text>256 - باب ما يباح من الغيبة</text></navLabel><content src="xhtml/P1688.xhtml#C362"/></navPoint>
+<navPoint id="C363" playOrder="364"><navLabel><text>257 - باب تحريم النميمة وهي نقل الكلام بين الناس على جهة الإفساد</text></navLabel><content src="xhtml/P1695.xhtml#C363"/></navPoint>
+<navPoint id="C364" playOrder="365"><navLabel><text>258 - باب النهي عن نقل الحديث وكلام الناس إلى ولاة الأمور إذا لم تدع إليه حاجة كخوف مفسدة ونحوه</text></navLabel><content src="xhtml/P1699.xhtml#C364"/></navPoint>
+<navPoint id="C365" playOrder="366"><navLabel><text>259 - باب ذم ذي الوجهين</text></navLabel><content src="xhtml/P1701.xhtml#C365"/></navPoint>
+<navPoint id="C366" playOrder="367"><navLabel><text>260 - باب تحريم الكذب</text></navLabel><content src="xhtml/P1704.xhtml#C366"/></navPoint>
+<navPoint id="C367" playOrder="368"><navLabel><text>261 - باب بيان ما يجوز من الكذب</text></navLabel><content src="xhtml/P1713.xhtml#C367"/></navPoint>
+<navPoint id="C368" playOrder="369"><navLabel><text>262 - باب الحث على التثبت فيما يقوله ويحكيه</text></navLabel><content src="xhtml/P1715.xhtml#C368"/></navPoint>
+<navPoint id="C369" playOrder="370"><navLabel><text>263 - باب بيان غلظ تحريم شهادة الزور</text></navLabel><content src="xhtml/P1719.xhtml#C369"/></navPoint>
+<navPoint id="C370" playOrder="371"><navLabel><text>264 - باب تحريم لعن إنسان بعينه أو دابة</text></navLabel><content src="xhtml/P1721.xhtml#C370"/></navPoint>
+<navPoint id="C371" playOrder="372"><navLabel><text>265 - باب جواز لعن أصحاب المعاصي غير المعينين</text></navLabel><content src="xhtml/P1729.xhtml#C371"/></navPoint>
+<navPoint id="C372" playOrder="373"><navLabel><text>266 - باب تحريم سب المسلم بغير حق</text></navLabel><content src="xhtml/P1730.xhtml#C372"/></navPoint>
+<navPoint id="C373" playOrder="374"><navLabel><text>267 - باب تحريم سب الأموات بغير حق ومصلحة شرعية</text></navLabel><content src="xhtml/P1736.xhtml#C373"/></navPoint>
+<navPoint id="C374" playOrder="375"><navLabel><text>268 - باب النهي عن الإيذاء</text></navLabel><content src="xhtml/P1737.xhtml#C374"/></navPoint>
+<navPoint id="C375" playOrder="376"><navLabel><text>269 - باب النهي عن التباغض والتقاطع والتدابر</text></navLabel><content src="xhtml/P1740.xhtml#C375"/></navPoint>
+<navPoint id="C376" playOrder="377"><navLabel><text>270 - باب تحريم الحسد</text></navLabel><content src="xhtml/P1743.xhtml#C376"/></navPoint>
+<navPoint id="C377" playOrder="378"><navLabel><text>271 - باب النهي عن التجسس والتسمع لكلام من يكره استماعه</text></navLabel><content src="xhtml/P1745.xhtml#C377"/></navPoint>
+<navPoint id="C378" playOrder="379"><navLabel><text>272 - باب النهي عن سوء الظن بالمسلمين من غير ضرورة</text></navLabel><content src="xhtml/P1749.xhtml#C378"/></navPoint>
+<navPoint id="C379" playOrder="380"><navLabel><text>273 - باب تحريم احتقار المسلمين</text></navLabel><content src="xhtml/P1751.xhtml#C379"/></navPoint>
+<navPoint id="C380" playOrder="381"><navLabel><text>274 - باب النهي عن إظهار الشماتة بالمسلم</text></navLabel><content src="xhtml/P1755.xhtml#C380"/></navPoint>
+<navPoint id="C381" playOrder="382"><navLabel><text>275 - باب تحريم الطعن في الأنساب الثابتة في ظاهر الشرع</text></navLabel><content src="xhtml/P1757.xhtml#C381"/></navPoint>
+<navPoint id="C382" playOrder="383"><navLabel><text>276 - باب النهي عن الغش والخداع</text></navLabel><content src="xhtml/P1759.xhtml#C382"/></navPoint>
+<navPoint id="C383" playOrder="384"><navLabel><text>227 - باب تحريم الغدر</text></navLabel><content src="xhtml/P1765.xhtml#C383"/></navPoint>
+<navPoint id="C384" playOrder="385"><navLabel><text>278 - باب النهي عن المن بالعطية ونحوها</text></navLabel><content src="xhtml/P1770.xhtml#C384"/></navPoint>
+<navPoint id="C385" playOrder="386"><navLabel><text>279 - باب النهي عن الافتخار والبغي</text></navLabel><content src="xhtml/P1772.xhtml#C385"/></navPoint>
+<navPoint id="C386" playOrder="387"><navLabel><text>280 - باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إلا لبدعة في المهجور، أو تظاهر بفسق أو نحو ذلك</text></navLabel><content src="xhtml/P1775.xhtml#C386"/></navPoint>
+<navPoint id="C387" playOrder="388"><navLabel><text>281 - باب النهي عن تناجي اثنين دون الثالث بغير إذنه إلا لحاجة وهو أن يتحدثا سرا بحيث لا يسمعهما وفي معناه ما إذا تحدثا بلسان لا يفهمه</text></navLabel><content src="xhtml/P1783.xhtml#C387"/></navPoint>
+<navPoint id="C388" playOrder="389"><navLabel><text>282 - باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أو زائد على قدر الأدب</text></navLabel><content src="xhtml/P1786.xhtml#C388"/></navPoint>
+<navPoint id="C389" playOrder="390"><navLabel><text>283 - باب تحريم التعذيب بالنار في كل حيوان حتى النملة ونحوها</text></navLabel><content src="xhtml/P1796.xhtml#C389"/></navPoint>
+<navPoint id="C390" playOrder="391"><navLabel><text>284 - باب تحريم مطل الغني بحق طلبه صاحبه</text></navLabel><content src="xhtml/P1798.xhtml#C390"/></navPoint>
+<navPoint id="C391" playOrder="392"><navLabel><text>285 - باب كراهة عود الإنسان في هبة لم يسلمها إلى الموهوب له وفي هبة وهبها لولده وسلمها أو لم يسلمها وكراهة شرائه شيئا تصدق به من الذي تصدق عليه أو أخرجه عن زكاة أو كفارة ونحوها ولا بأس بشرائه من شخص آخر قد انتقل إل</text></navLabel><content src="xhtml/P1800.xhtml#C391"/></navPoint>
+<navPoint id="C392" playOrder="393"><navLabel><text>286 - باب تأكيد تحريم مال اليتيم</text></navLabel><content src="xhtml/P1802.xhtml#C392"/></navPoint>
+<navPoint id="C393" playOrder="394"><navLabel><text>287 - باب تغليظ تحريم الربا</text></navLabel><content src="xhtml/P1804.xhtml#C393"/></navPoint>
+<navPoint id="C394" playOrder="395"><navLabel><text>288 - باب تحريم الرياء</text></navLabel><content src="xhtml/P1806.xhtml#C394"/></navPoint>
+<navPoint id="C395" playOrder="396"><navLabel><text>289 - باب ما يتوهم أنه رياء وليس هو رياء</text></navLabel><content src="xhtml/P1812.xhtml#C395"/></navPoint>
+<navPoint id="C396" playOrder="397"><navLabel><text>290 - باب تحريم النظر إلى المرأة الأجنبية والأمرد الحسن لغير حاجة شرعية</text></navLabel><content src="xhtml/P1813.xhtml#C396"/></navPoint>
+<navPoint id="C397" playOrder="398"><navLabel><text>291 - باب تحريم الخلوة بالأجنبية</text></navLabel><content src="xhtml/P1820.xhtml#C397"/></navPoint>
+<navPoint id="C398" playOrder="399"><navLabel><text>292 - باب تحريم تشبه الرجال بالنساء وتشبه النساء بالرجال في لباس وحركة وغير ذلك</text></navLabel><content src="xhtml/P1824.xhtml#C398"/></navPoint>
+<navPoint id="C399" playOrder="400"><navLabel><text>293 - باب النهي عن التشبه بالشيطان والكفار</text></navLabel><content src="xhtml/P1827.xhtml#C399"/></navPoint>
+<navPoint id="C400" playOrder="401"><navLabel><text>294 - باب نهي الرجل والمرأة عن خضاب شعرهما بسواد</text></navLabel><content src="xhtml/P1830.xhtml#C400"/></navPoint>
+<navPoint id="C401" playOrder="402"><navLabel><text>295 - باب النهي عن القزع وهو حلق بعض الرأس دون بعض، وإباحة حلقه كله للرجل دون المرأة</text></navLabel><content src="xhtml/P1831.xhtml#C401"/></navPoint>
+<navPoint id="C402" playOrder="403"><navLabel><text>296 - باب تحريم وصل الشعر والوشم والوشر وهو تحديد الأسنان</text></navLabel><content src="xhtml/P1835.xhtml#C402"/></navPoint>
+<navPoint id="C403" playOrder="404"><navLabel><text>297 - باب النهي عن نتف الشيب من اللحية والرأس وغيرهما، وعن نتف الأمرد شعر لحيته عند أول طلوعه</text></navLabel><content src="xhtml/P1840.xhtml#C403"/></navPoint>
+<navPoint id="C404" playOrder="405"><navLabel><text>298 - باب كراهة الاستنجاء باليمين ومس الفرج باليمين من غير عذر</text></navLabel><content src="xhtml/P1842.xhtml#C404"/></navPoint>
+<navPoint id="C405" playOrder="406"><navLabel><text>299 - باب كراهة المشي في نعل واحدة أو خف واحد لغير عذر وكراهة لبس النعل والخف قائما لغير عذر</text></navLabel><content src="xhtml/P1843.xhtml#C405"/></navPoint>
+<navPoint id="C406" playOrder="407"><navLabel><text>300 - باب النهي عن ترك النار في البيت عند النوم ونحوه سواء كانت في سراج أو غيره</text></navLabel><content src="xhtml/P1846.xhtml#C406"/></navPoint>
+<navPoint id="C407" playOrder="408"><navLabel><text>301 - باب النهي عن التكلف، وهو فعل وقول ما لا مصلحة فيه بمشقة</text></navLabel><content src="xhtml/P1849.xhtml#C407"/></navPoint>
+<navPoint id="C408" playOrder="409"><navLabel><text>302 - باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه والدعاء بالويل والثبور</text></navLabel><content src="xhtml/P1852.xhtml#C408"/></navPoint>
+<navPoint id="C409" playOrder="410"><navLabel><text>303 - باب النهي عن إتيان الكهان والمنجمين والعراف وأصحاب الرمل والطوارق بالحصى وبالشعير ونحو ذلك</text></navLabel><content src="xhtml/P1863.xhtml#C409"/></navPoint>
+<navPoint id="C410" playOrder="411"><navLabel><text>304 - باب النهي عن التطير</text></navLabel><content src="xhtml/P1869.xhtml#C410"/></navPoint>
+<navPoint id="C411" playOrder="412"><navLabel><text>305 - باب تحريم تصوير الحيوان في بساط أو حجر أو ثوب أو درهم أو مخدة أو دينار أو وسادة وغير ذلك وتحريم اتخاذ الصور في حائط وسقف وستر وعمامة وثوب ونحوها والأمر بإتلاف الصورة</text></navLabel><content src="xhtml/P1874.xhtml#C411"/></navPoint>
+<navPoint id="C412" playOrder="413"><navLabel><text>306 - باب تحريم اتخاذ الكلب إلا لصيد أو ماشية أو زرع</text></navLabel><content src="xhtml/P1884.xhtml#C412"/></navPoint>
+<navPoint id="C413" playOrder="414"><navLabel><text>307 - باب كراهية تعليق الجرس في البعير وغيره من الدواب وكراهية استصحاب الكلب والجرس في السفر</text></navLabel><content src="xhtml/P1886.xhtml#C413"/></navPoint>
+<navPoint id="C414" playOrder="415"><navLabel><text>308 - باب كراهة ركوب الجلالة، وهي البعير أو الناقة التي تأكل العذرة، فإن أكلت علفا طاهرا فطاب لحمها، زالت الكراهة</text></navLabel><content src="xhtml/P1888.xhtml#C414"/></navPoint>
+<navPoint id="C415" playOrder="416"><navLabel><text>309 - باب النهي عن البصاق في المسجد والأمر بإزالته منه إذا وجد فيه، والأمر بتنزيه المسجد عن الأقذار</text></navLabel><content src="xhtml/P1889.xhtml#C415"/></navPoint>
+<navPoint id="C416" playOrder="417"><navLabel><text>310 - باب كراهة الخصومة في المسجد ورفع الصوت فيه ونشد الضالة والبيع والشراء والإجارة ونحوها من المعاملات</text></navLabel><content src="xhtml/P1892.xhtml#C416"/></navPoint>
+<navPoint id="C417" playOrder="418"><navLabel><text>311 - باب نهي من أكل ثوما أو بصلا أو كراثا أو غيره مما له رائحة كريهة عن دخول المسجد قبل زوال رائحته إلا لضرورة</text></navLabel><content src="xhtml/P1897.xhtml#C417"/></navPoint>
+<navPoint id="C418" playOrder="419"><navLabel><text>312 - باب كراهة الاحتباء يوم الجمعة والإمام يخطب لأنه يجلب النوم فيفوت استماع الخطبة ويخاف انتقاض الوضوء</text></navLabel><content src="xhtml/P1901.xhtml#C418"/></navPoint>
+<navPoint id="C419" playOrder="420"><navLabel><text>313 - باب نهي من دخل عليه عشر ذي الحجة وأراد أن يضحي عن أخذ شيء من شعره أو أظفاره حتى يضحي</text></navLabel><content src="xhtml/P1902.xhtml#C419"/></navPoint>
+<navPoint id="C420" playOrder="421"><navLabel><text>314 - باب النهي عن الحلف بمخلوق</text></navLabel><content src="xhtml/P1903.xhtml#C420"/></navPoint>
+<navPoint id="C421" playOrder="422"><navLabel><text>314 - باب النهي عن الحلف بمخلوق كالنبي والكعبة والملائكة والسماء والآباء والحياة والروح والرأس وحياة السلطان ونعمة السلطان وتربة فلان والأمانة، وهي من أشدها نهيا</text></navLabel><content src="xhtml/P1903.xhtml#C421"/></navPoint>
+<navPoint id="C422" playOrder="423"><navLabel><text>315 - باب تغليظ اليمين الكاذبة عمدا</text></navLabel><content src="xhtml/P1908.xhtml#C422"/></navPoint>
+<navPoint id="C423" playOrder="424"><navLabel><text>316 - باب ندب من حلف على يمين فرأى غيرها خيرا منها أن يفعل ذلك المحلوف عليه ثم يكفر عن يمينه</text></navLabel><content src="xhtml/P1911.xhtml#C423"/></navPoint>
+<navPoint id="C424" playOrder="425"><navLabel><text>317 - باب العفو عن لغو اليمين وأنه لا كفارة فيه، وهو ما يجري على اللسان بغير قصد اليمين كقوله على العادة: لا والله، وبلى والله، ونحو ذلك</text></navLabel><content src="xhtml/P1915.xhtml#C424"/></navPoint>
+<navPoint id="C425" playOrder="426"><navLabel><text>318 - باب كراهة الحلف في البيع وإن كان صادقا</text></navLabel><content src="xhtml/P1917.xhtml#C425"/></navPoint>
+<navPoint id="C426" playOrder="427"><navLabel><text>319 - باب كراهة أن يسأل الإنسان بوجه الله - عز وجل - غير الجنة، وكراهة منع من سأل بالله تعالى وتشفع به</text></navLabel><content src="xhtml/P1919.xhtml#C426"/></navPoint>
+<navPoint id="C427" playOrder="428"><navLabel><text>320 - باب تحريم قوله: شاهنشاه للسلطان وغيره لأن معناه ملك الملوك، ولا يوصف بذلك غير الله سبحانه وتعالى</text></navLabel><content src="xhtml/P1921.xhtml#C427"/></navPoint>
+<navPoint id="C428" playOrder="429"><navLabel><text>321 - باب النهي عن مخاطبة الفاسق والمبتدع ونحوهما بسيد ونحوه</text></navLabel><content src="xhtml/P1922.xhtml#C428"/></navPoint>
+<navPoint id="C429" playOrder="430"><navLabel><text>322 - باب كراهة سب الحمى</text></navLabel><content src="xhtml/P1923.xhtml#C429"/></navPoint>
+<navPoint id="C430" playOrder="431"><navLabel><text>323 - باب النهي عن سب الريح، وبيان ما يقال عند هبوبها</text></navLabel><content src="xhtml/P1924.xhtml#C430"/></navPoint>
+<navPoint id="C431" playOrder="432"><navLabel><text>324 - باب كراهة سب الديك</text></navLabel><content src="xhtml/P1927.xhtml#C431"/></navPoint>
+<navPoint id="C432" playOrder="433"><navLabel><text>325 - باب النهي عن قول الإنسان: مطرنا بنوء كذا</text></navLabel><content src="xhtml/P1928.xhtml#C432"/></navPoint>
+<navPoint id="C433" playOrder="434"><navLabel><text>326 - باب تحريم قوله لمسلم: يا كافر</text></navLabel><content src="xhtml/P1929.xhtml#C433"/></navPoint>
+<navPoint id="C434" playOrder="435"><navLabel><text>327 - باب النهي عن الفحش وبذاء اللسان</text></navLabel><content src="xhtml/P1931.xhtml#C434"/></navPoint>
+<navPoint id="C435" playOrder="436"><navLabel><text>328 - باب كراهة التقعير في الكلام والتشدق فيه وتكلف الفصاحة واستعمال وحشي اللغة ودقائق الإعراب في مخاطبة العوام ونحوهم</text></navLabel><content src="xhtml/P1933.xhtml#C435"/></navPoint>
+<navPoint id="C436" playOrder="437"><navLabel><text>329 - باب كراهة قوله: خبثت نفسي</text></navLabel><content src="xhtml/P1936.xhtml#C436"/></navPoint>
+<navPoint id="C437" playOrder="438"><navLabel><text>330 - باب كراهة تسمية العنب كرما</text></navLabel><content src="xhtml/P1937.xhtml#C437"/></navPoint>
+<navPoint id="C438" playOrder="439"><navLabel><text>331 - باب النهي عن وصف محاسن المرأة لرجل إلا أن يحتاج إلى ذلك لغرض شرعي كنكاحها ونحوه</text></navLabel><content src="xhtml/P1939.xhtml#C438"/></navPoint>
+<navPoint id="C439" playOrder="440"><navLabel><text>332 - باب كراهة قول الإنسان: اللهم اغفر لي إن شئت بل يجزم بالطلب</text></navLabel><content src="xhtml/P1940.xhtml#C439"/></navPoint>
+<navPoint id="C440" playOrder="441"><navLabel><text>333 - باب كراهة قول: ما شاء الله وشاء فلان</text></navLabel><content src="xhtml/P1942.xhtml#C440"/></navPoint>
+<navPoint id="C441" playOrder="442"><navLabel><text>334 - باب كراهة الحديث بعد العشاء الآخرة</text></navLabel><content src="xhtml/P1943.xhtml#C441"/></navPoint>
+<navPoint id="C442" playOrder="443"><navLabel><text>335 - باب تحريم امتناع المرأة من فراش زوجها إذا دعاها ولم يكن لها عذر شرعي</text></navLabel><content src="xhtml/P1947.xhtml#C442"/></navPoint>
+<navPoint id="C443" playOrder="444"><navLabel><text>336 - باب تحريم صوم المرأة تطوعا وزوجها حاضر إلا بإذنه</text></navLabel><content src="xhtml/P1948.xhtml#C443"/></navPoint>
+<navPoint id="C444" playOrder="445"><navLabel><text>337 - باب تحريم رفع المأموم رأسه من الركوع أو السجود قبل الإمام</text></navLabel><content src="xhtml/P1949.xhtml#C444"/></navPoint>
+<navPoint id="C445" playOrder="446"><navLabel><text>338 - باب كراهة وضع اليد على الخاصرة في الصلاة</text></navLabel><content src="xhtml/P1950.xhtml#C445"/></navPoint>
+<navPoint id="C446" playOrder="447"><navLabel><text>339 - باب كراهة الصلاة بحضرة الطعام ونفسه تتوق إليه أو مع مدافعة الأخبثين: وهما البول والغائط</text></navLabel><content src="xhtml/P1951.xhtml#C446"/></navPoint>
+<navPoint id="C447" playOrder="448"><navLabel><text>340 - باب النهي عن رفع البصر إلى السماء في الصلاة</text></navLabel><content src="xhtml/P1952.xhtml#C447"/></navPoint>
+<navPoint id="C448" playOrder="449"><navLabel><text>341 - باب كراهة الالتفات في الصلاة لغير عذر</text></navLabel><content src="xhtml/P1953.xhtml#C448"/></navPoint>
+<navPoint id="C449" playOrder="450"><navLabel><text>342 - باب النهي عن الصلاة إلى القبور</text></navLabel><content src="xhtml/P1955.xhtml#C449"/></navPoint>
+<navPoint id="C450" playOrder="451"><navLabel><text>343 - باب تحريم المرور بين يدي المصلي</text></navLabel><content src="xhtml/P1956.xhtml#C450"/></navPoint>
+<navPoint id="C451" playOrder="452"><navLabel><text>344 - باب كراهة شروع المأموم في نافلة بعد شروع المؤذن في إقامة الصلاة، سواء كانت النافلة سنة تلك الصلاة أو غيرها</text></navLabel><content src="xhtml/P1957.xhtml#C451"/></navPoint>
+<navPoint id="C452" playOrder="453"><navLabel><text>345 - باب كراهة تخصيص يوم الجمعة بصيام أو ليلته بصلاة من بين الليالي</text></navLabel><content src="xhtml/P1958.xhtml#C452"/></navPoint>
+<navPoint id="C453" playOrder="454"><navLabel><text>346 - باب تحريم الوصال في الصوم وهو أن يصوم يومين أو أكثر ولا يأكل ولا يشرب بينهما</text></navLabel><content src="xhtml/P1962.xhtml#C453"/></navPoint>
+<navPoint id="C454" playOrder="455"><navLabel><text>347 - باب تحريم الجلوس على قبر</text></navLabel><content src="xhtml/P1964.xhtml#C454"/></navPoint>
+<navPoint id="C455" playOrder="456"><navLabel><text>348 - باب النهي عن تجصيص القبر والبناء عليه</text></navLabel><content src="xhtml/P1965.xhtml#C455"/></navPoint>
+<navPoint id="C456" playOrder="457"><navLabel><text>349 - باب تغليظ تحريم إباق العبد من سيده</text></navLabel><content src="xhtml/P1966.xhtml#C456"/></navPoint>
+<navPoint id="C457" playOrder="458"><navLabel><text>350 - باب تحريم الشفاعة في الحدود</text></navLabel><content src="xhtml/P1968.xhtml#C457"/></navPoint>
+<navPoint id="C458" playOrder="459"><navLabel><text>351 - باب النهي عن التغوط في طريق الناس وظلهم وموارد الماء ونحوها</text></navLabel><content src="xhtml/P1970.xhtml#C458"/></navPoint>
+<navPoint id="C459" playOrder="460"><navLabel><text>352 - باب النهي عن البول ونحوه في الماء الراكد</text></navLabel><content src="xhtml/P1972.xhtml#C459"/></navPoint>
+<navPoint id="C460" playOrder="461"><navLabel><text>353 - باب كراهة تفضيل الوالد بعض أولاده على بعض في الهبة</text></navLabel><content src="xhtml/P1973.xhtml#C460"/></navPoint>
+<navPoint id="C461" playOrder="462"><navLabel><text>354 - باب تحريم إحداد المرأة على ميت فوق ثلاثة أيام إلا على زوجها أربعة أشهر وعشرة أيام</text></navLabel><content src="xhtml/P1974.xhtml#C461"/></navPoint>
+<navPoint id="C462" playOrder="463"><navLabel><text>355 - باب تحريم بيع الحاضر للبادي وتلقي الركبان، والبيع على بيع أخيه والخطبة على خطبته إلا أن يأذن أو يرد</text></navLabel><content src="xhtml/P1975.xhtml#C462"/></navPoint>
+<navPoint id="C463" playOrder="464"><navLabel><text>356 - باب النهي عن إضاعة المال في غير وجوهه التي أذن الشرع فيها</text></navLabel><content src="xhtml/P1981.xhtml#C463"/></navPoint>
+<navPoint id="C464" playOrder="465"><navLabel><text>357 - باب النهي عن الإشارة إلى مسلم بسلاح ونحوه، سواء كان جادا أو مازحا، والنهي عن تعاطي السيف مسلولا</text></navLabel><content src="xhtml/P1983.xhtml#C464"/></navPoint>
+<navPoint id="C465" playOrder="466"><navLabel><text>358 - باب كراهة الخروج من المسجد بعد الأذان إلا لعذر حتى يصلي المكتوبة</text></navLabel><content src="xhtml/P1985.xhtml#C465"/></navPoint>
+<navPoint id="C466" playOrder="467"><navLabel><text>359 - باب كراهة رد الريحان لغير عذر</text></navLabel><content src="xhtml/P1986.xhtml#C466"/></navPoint>
+<navPoint id="C467" playOrder="468"><navLabel><text>360 - باب كراهة المدح في الوجه لمن خيف عليه مفسدة من إعجاب ونحوه، وجوازه لمن أمن ذلك في حقه</text></navLabel><content src="xhtml/P1988.xhtml#C467"/></navPoint>
+<navPoint id="C468" playOrder="469"><navLabel><text>361 - باب كراهة الخروج من بلد وقع فيها الوباء فرارا منه وكراهة القدوم عليه</text></navLabel><content src="xhtml/P1991.xhtml#C468"/></navPoint>
+<navPoint id="C469" playOrder="470"><navLabel><text>362 - باب التغليظ في تحريم السحر</text></navLabel><content src="xhtml/P1994.xhtml#C469"/></navPoint>
+<navPoint id="C470" playOrder="471"><navLabel><text>363 - باب النهي عن المسافرة بالمصحف إلى بلاد الكفار إذا خيف وقوعه بأيدي العدو</text></navLabel><content src="xhtml/P1996.xhtml#C470"/></navPoint>
+<navPoint id="C471" playOrder="472"><navLabel><text>364 - باب تحريم استعمال إناء الذهب وإناء الفضة في الأكل والشرب والطهارة وسائر وجوه الاستعمال</text></navLabel><content src="xhtml/P1997.xhtml#C471"/></navPoint>
+<navPoint id="C472" playOrder="473"><navLabel><text>365 - باب تحريم لبس الرجل ثوبا مزعفرا</text></navLabel><content src="xhtml/P2000.xhtml#C472"/></navPoint>
+<navPoint id="C473" playOrder="474"><navLabel><text>366 - باب النهي عن صمت يوم إلى الليل</text></navLabel><content src="xhtml/P2002.xhtml#C473"/></navPoint>
+<navPoint id="C474" playOrder="475"><navLabel><text>367 - باب تحريم انتساب الإنسان إلى غير أبيه وتوليه إلى غير مواليه</text></navLabel><content src="xhtml/P2004.xhtml#C474"/></navPoint>
+<navPoint id="C475" playOrder="476"><navLabel><text>368 - باب التحذير من ارتكاب ما نهى الله - عز وجل - أو رسوله - صلى الله عليه وسلم - عنه</text></navLabel><content src="xhtml/P2008.xhtml#C475"/></navPoint>
+<navPoint id="C476" playOrder="477"><navLabel><text>369 - باب ما يقوله ويفعله من ارتكب منهيا عنه</text></navLabel><content src="xhtml/P2010.xhtml#C476"/></navPoint>
+</navPoint>
+<navPoint id="C477" playOrder="478"><navLabel><text>18 - كتاب المنثورات والملح</text></navLabel><content src="xhtml/P2012.xhtml#C477"/><navPoint id="C478" playOrder="479"><navLabel><text>370 - باب أحاديث الدجال وأشراط الساعة وغيرها</text></navLabel><content src="xhtml/P2012.xhtml#C478"/></navPoint>
+</navPoint>
+<navPoint id="C479" playOrder="480"><navLabel><text>19 - كتاب الاستغفار</text></navLabel><content src="xhtml/P2078.xhtml#C479"/><navPoint id="C480" playOrder="481"><navLabel><text>371 - باب الأمر بالاستغفار وفضله</text></navLabel><content src="xhtml/P2078.xhtml#C480"/><navPoint id="C481" playOrder="482"><navLabel><text>رب اغفر لي وتب علي إنك أنت التواب الرحيم</text></navLabel><content src="xhtml/P2082.xhtml#C481"/></navPoint>
+<navPoint id="C482" playOrder="483"><navLabel><text>أستغفر الله الذي لا إله إلا هو الحي القيوم وأتوب إليه</text></navLabel><content src="xhtml/P2084.xhtml#C482"/></navPoint>
+<navPoint id="C483" playOrder="484"><navLabel><text>اللهم أنت ربي، لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي، وأبوء بذنبي، فاغفر لي، فإن</text></navLabel><content src="xhtml/P2085.xhtml#C483"/></navPoint>
+<navPoint id="C484" playOrder="485"><navLabel><text>أستغفر الله، أستغفر الله</text></navLabel><content src="xhtml/P2086.xhtml#C484"/></navPoint>
+<navPoint id="C485" playOrder="486"><navLabel><text>اللهم أنت السلام، ومنك السلام، تباركت يا ذا الجلال والإكرام</text></navLabel><content src="xhtml/P2086.xhtml#C485"/></navPoint>
+<navPoint id="C486" playOrder="487"><navLabel><text>سبحان الله وبحمده، أستغفر الله، وأتوب إليه</text></navLabel><content src="xhtml/P2087.xhtml#C486"/></navPoint>
+</navPoint>
+<navPoint id="C487" playOrder="488"><navLabel><text>372 - باب بيان ما أعد الله تعالى للمؤمنين في الجنة</text></navLabel><content src="xhtml/P2090.xhtml#C487"/></navPoint>
+</navPoint>
+
+    </navMap>
+</ncx>
